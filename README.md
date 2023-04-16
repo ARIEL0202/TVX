@@ -1,1023 +1,202 @@
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzA2Nzk5M2EtNWY4Yi00ZDY4LThkZTgtYjhhNWEyMGY0MjFjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",The Wheel of Time S01E01 (2021) Lat
-https://ia601400.us.archive.org/12/items/2296.2596613.177.2210146.2101603.2562201018.26264.10171510.21222/2296.2596613.177.2210146.2101601.2562201018.26264.10171510.13122.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzA2Nzk5M2EtNWY4Yi00ZDY4LThkZTgtYjhhNWEyMGY0MjFjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",The Wheel of Time S01E01 (2021) Sub
-https://ia601400.us.archive.org/12/items/2296.2596613.177.2210146.2101603.2562201018.26264.10171510.21222/2296.2596613.177.2210146.2101601.2562201018.26264.10171510.21222.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzA2Nzk5M2EtNWY4Yi00ZDY4LThkZTgtYjhhNWEyMGY0MjFjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",The Wheel of Time S01E02 (2021) Lat
-https://ia601400.us.archive.org/12/items/2296.2596613.177.2210146.2101603.2562201018.26264.10171510.21222/2296.2596613.177.2210146.2101602.2562201018.26264.10171510.13122.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzA2Nzk5M2EtNWY4Yi00ZDY4LThkZTgtYjhhNWEyMGY0MjFjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",The Wheel of Time S01E02 (2021) Sub
-https://ia601400.us.archive.org/12/items/2296.2596613.177.2210146.2101603.2562201018.26264.10171510.21222/2296.2596613.177.2210146.2101602.2562201018.26264.10171510.21222.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzA2Nzk5M2EtNWY4Yi00ZDY4LThkZTgtYjhhNWEyMGY0MjFjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",The Wheel of Time S01E03 (2021) Lat
-https://ia601400.us.archive.org/12/items/2296.2596613.177.2210146.2101603.2562201018.26264.10171510.21222/2296.2596613.177.2210146.2101603.2562201018.26264.10171510.13122.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzA2Nzk5M2EtNWY4Yi00ZDY4LThkZTgtYjhhNWEyMGY0MjFjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",The Wheel of Time S01E03 (2021) Sub
-https://ia601400.us.archive.org/12/items/2296.2596613.177.2210146.2101603.2562201018.26264.10171510.21222/2296.2596613.177.2210146.2101603.2562201018.26264.10171510.21222.mkv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmZiMjdlN2UtYzdiZS00YjgxLTgyZGMtYzE4ZGU5NTlkNjhhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Ghostbusters: Afterlife (2021) Cam
-https://ia601503.us.archive.org/7/items/89162122223212262021.1722620131076.2021.3114.13122/89162122223212262021.1722620131076.2021.3114.13122.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGVkOTlhOTktNjZiNS00NDg3LWIxMDAtZTY5Y2E0YjllN2IxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Wrath of Man (2021) Lat
-https://ia601404.us.archive.org/1/items/24191218.166.13114.2021.8419917.72017.12121/24191218.166.13114.2021.8419917.72017.12121.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGVkOTlhOTktNjZiNS00NDg3LWIxMDAtZTY5Y2E0YjllN2IxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Wrath of Man (2021) Sub
-https://ia601404.us.archive.org/1/items/24191218.166.13114.2021.8419917.72017.12121/24191218.166.13114.2021.8419917.72017.20222.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGVkOTlhOTktNjZiNS00NDg3LWIxMDAtZTY5Y2E0YjllN2IxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Wrath of Man (2021)
-http://vod.tuxchannel.tv:80/peliculas/720/wrath%20of%20man%202021.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDIzODQyODQtYzIyYy00MDE5LWJmZjMtMDRmYTRkNzAyZjAzXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Voyagers (2021) 1080
-https://ia601503.us.archive.org/9/items/2417271862021.2021.108018.131226158.2132320127.26265.2012028/2417271862021.2021.108018.131226158.2132320127.26265.2012028.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWYxYTMzODMtMzdiNS00Nzc5LWE5ZGYtODMxMGEzYTAxOGRlXkEyXkFqcGdeQXVyMTA5NzUzODM4._V1_QL75_UY148_CR2,0,100,148_.jpg" group-title="2021",Game Changer -Thai (2021) Sub
-https://ia601409.us.archive.org/29/items/81136.41158620.2021.229110.108018.2562201018.25265.242622.21232/81136.41158620.2021.95201018.72018.21232.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWYxYTMzODMtMzdiNS00Nzc5LWE5ZGYtODMxMGEzYTAxOGRlXkEyXkFqcGdeQXVyMTA5NzUzODM4._V1_QL75_UY148_CR2,0,100,148_.jpg" group-title="2021",Game Changer -Thai (2021) 1080 Sub
-https://ia601409.us.archive.org/29/items/81136.41158620.2021.229110.108018.2562201018.25265.242622.21232/81136.41158620.2021.229110.108018.2562201018.25265.242622.21232.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzZhNjJmNmEtNDNiYy00MDYwLWI2MTgtMDE4OGZhNzk4OTMzXkEyXkFqcGdeQXVyNjQwMjYzNjY@._V1_QL75_UY148_CR4,0,100,148_.jpg" group-title="2021",The Anti-Vax Conspiracy (2021) Sub
-https://ia601403.us.archive.org/9/items/2185.11421.22125.3161420179191326.2021.8419917.72017.20222/2185.11421.22125.3161420179191326.2021.8419917.72017.20222.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGE0NjMzNTktOTk1ZC00NTQxLWE4YjctYTY1Yzg1YTRlNzA2XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_UY98_CR5,0,67,98_AL_.jpg" group-title="2021",The Simpsons in Plusaversary -Short (2021) Lat
-https://ia601502.us.archive.org/35/items/2185.191317161420.1612222012351920119243.2021-8419917.72017.20212/2185.191317161420.1612222012351920119243.2021%208419917.72017.12121.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGE0NjMzNTktOTk1ZC00NTQxLWE4YjctYTY1Yzg1YTRlNzA2XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_UY98_CR5,0,67,98_AL_.jpg" group-title="2021",The Simpsons in Plusaversary -Short (2021) Sub
-https://ia601502.us.archive.org/35/items/2185.191317161420.1612222012351920119243.2021-8419917.72017.20212/2185.191317161420.1612222012351920119243.2021%208419917.72017.20212.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmRjODgyMzEtMzIxYS00OWY2LTk4YjUtMGMzZjMzMTZiN2Q0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Red Notice (2021) Lat
-https://ia601502.us.archive.org/12/items/1954.14162135.2021.8419917.72017.20222/1954.14162135.2021.8419917.72017.12121.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmRjODgyMzEtMzIxYS00OWY2LTk4YjUtMGMzZjMzMTZiN2Q0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Red Notice (2021) Sub
-https://ia601502.us.archive.org/12/items/1954.14162135.2021.8419917.72017.20222/1954.14162135.2021.8419917.72017.20222.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmRjODgyMzEtMzIxYS00OWY2LTk4YjUtMGMzZjMzMTZiN2Q0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Red Notice (2021) 1080
-https://ia601509.us.archive.org/23/items/red.-notice.-2021.1080p/Red.Notice.2021.1080p.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmRjODgyMzEtMzIxYS00OWY2LTk4YjUtMGMzZjMzMTZiN2Q0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Red Notice (2021) 
-https://ia801509.us.archive.org/23/items/red.-notice.-2021.1080p/Red.Notice.2021.1080p.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmRjODgyMzEtMzIxYS00OWY2LTk4YjUtMGMzZjMzMTZiN2Q0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Red Notice (2021) 1080
-http://ultra-premium-pro.xyz:8090/movie/VSGMEGA22/vopJide2U2/67262.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmRjODgyMzEtMzIxYS00OWY2LTk4YjUtMGMzZjMzMTZiN2Q0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Red Notice (2021) 720
-http://ultra-premium-pro.xyz:8090/movie/VSGMEGA22/vopJide2U2/67261.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjgwZDIwY2MtNGZlNy00NGRlLWFmNTgtOTBkZThjMDUwMGJhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Last Night in Soho (2021) Sub
-https://ia601504.us.archive.org/15/items/1212021.1497821.914.2016816.2021.8419917.72017.20222/1212021.1497821.914.2016816.2021.8419917.72017.20222.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzMxMjllYTgtZWNjZS00ODc0LTljZWUtYjdiMDQ2ZDJkM2FkXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Ron's Gone Wrong (2021) Cam
-https://ia601506.us.archive.org/30/items/19161420.716145.2419161417.2021.3113/19161420.716145.2419161417.2021.3113.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGExZTUzYWQtYWJjZi00OTI4LTk4OGYtNTA2YzcwMmNiZTMxXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",The Last Duel (2021) Cam
-https://ia601505.us.archive.org/24/items/2185.1212021.422512.2021.3113/2185.1212021.422512.2021.3113.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGMxYmI2MDAtMjZlMC00YjQyLTljNGYtOGI0YmMwOGE3YWNiXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UX100_CR0,5,100,148_.jpg" group-title="2021",Old (2021) Lat
-https://ia601402.us.archive.org/1/items/17135.2021.95201018.72018.13122/17135.2021.95201018.72018.13122.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGMxYmI2MDAtMjZlMC00YjQyLTljNGYtOGI0YmMwOGE3YWNiXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UX100_CR0,5,100,148_.jpg" group-title="2021",Old (2021) Sub
-https://ia601402.us.archive.org/1/items/17135.2021.95201018.72018.13122/17135.2021.95201018.72018.21232.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTMxYjk3MmItMzk1OC00NmRhLThlMjYtNmQyNzA0MzgxMWI2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Finch (2021) Lat
-https://ia601505.us.archive.org/20/items/691438.2021.8419917.72017.20222/691438.2021.8419917.72017.12121.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTMxYjk3MmItMzk1OC00NmRhLThlMjYtNmQyNzA0MzgxMWI2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Finch (2021) Sub
-https://ia601505.us.archive.org/20/items/691438.2021.8419917.72017.20222/691438.2021.8419917.72017.20222.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTMxYjk3MmItMzk1OC00NmRhLThlMjYtNmQyNzA0MzgxMWI2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Finch (2021) 4k
-http://ultra-premium-pro.xyz:8090/movie/VSGMEGA22/vopJide2U2/67187.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTMxYjk3MmItMzk1OC00NmRhLThlMjYtNmQyNzA0MzgxMWI2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Finch (2021) 1080
-http://ultra-premium-pro.xyz:8090/movie/VSGMEGA22/vopJide2U2/67189.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTMxYjk3MmItMzk1OC00NmRhLThlMjYtNmQyNzA0MzgxMWI2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Finch (2021) 720
-http://ultra-premium-pro.xyz:8090/movie/VSGMEGA22/vopJide2U2/67188.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjFjNjg4YTUtYzk4YS00MzBmLWFiZTktNjQ5YjEzYTk5ZDQ2XkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Apex (2021)
-http://ultra-premium-pro.xyz:8090/movie/VSGMEGA22/vopJide2U2/67171.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGQ2MGQ1ZGQtOTY4MS00ZDA5LWE5YmUtMGE0YTE2YTZiODZkXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_QL75_UX100_CR0,3,100,148_.jpg" group-title="2021",Hitman's Wife's Bodyguard (2021)
-https://ia601402.us.archive.org/18/items/89211311420.2496520.2164267221194.2021.8419917.72017.12121/89211311420.2496520.2164267221194.2021.8419917.72017.12121.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGQ2MGQ1ZGQtOTY4MS00ZDA5LWE5YmUtMGE0YTE2YTZiODZkXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_QL75_UX100_CR0,3,100,148_.jpg" group-title="2021",Hitman's Wife's Bodyguard (2021) Sub
-https://ia601402.us.archive.org/18/items/89211311420.2496520.2164267221194.2021.8419917.72017.12121/89211311420.2496520.2164267221194.2021.8419917.72017.20222.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDlkMzZiM2EtZDMxZC00ZWUwLTliMDMtMGMzMzE3NTEzMThiXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_QL75_UY148_CR9,0,100,148_.jpg" group-title="2021",Home Sweet Home Alone (2021) Lat
-https://ia601401.us.archive.org/28/items/816135.20245521.816135.11216145.2021.8419917.72017.20222/816135.20245521.816135.11216145.2021.8419917.72017.12121.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDlkMzZiM2EtZDMxZC00ZWUwLTliMDMtMGMzMzE3NTEzMThiXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_QL75_UY148_CR9,0,100,148_.jpg" group-title="2021",Home Sweet Home Alone (2021) Sub
-https://ia601401.us.archive.org/28/items/816135.20245521.816135.11216145.2021.8419917.72017.20222/816135.20245521.816135.11216145.2021.8419917.72017.20222.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDlkMzZiM2EtZDMxZC00ZWUwLTliMDMtMGMzMzE3NTEzMThiXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_QL75_UY148_CR9,0,100,148_.jpg" group-title="2021",Home Sweet Home Alone (2021) 
-https://ia801508.us.archive.org/20/items/home.-sweet.-home.-alone.-2021/Home.Sweet.Home.Alone.2021.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDlkMzZiM2EtZDMxZC00ZWUwLTliMDMtMGMzMzE3NTEzMThiXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_QL75_UY148_CR9,0,100,148_.jpg" group-title="2021",Home Sweet Home Alone (2021) 
-https://ia801508.us.archive.org/20/items/home.-sweet.-home.-alone.-2021/Home.Sweet.Home.Alone.2021.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTExZmVjY2ItYTAzYi00MDdlLWFlOWItNTJhMDRjMzQ5ZGY0XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Eternals (2021) Cam
-https://ia601509.us.archive.org/27/items/5215191411220.2021.3113.12121/5215191411220.2021.3113.12121.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTliYjlkNDQtMjFlNS00NjgzLWFmMWEtYmM2Mzc2Zjg3ZjEyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Shang-Chi (2021) Lat
-https://ia601405.us.archive.org/24/items/2081147.389.1144.2185.12575144.166.2185.21514.19914720.2021.21919917.72017.20222/2081147.389.1144.2185.12575144.166.2185.21514.19914720.2021.21919917.72017.12121.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTliYjlkNDQtMjFlNS00NjgzLWFmMWEtYmM2Mzc2Zjg3ZjEyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Shang-Chi (2021) Sub
-https://ia601405.us.archive.org/24/items/2081147.389.1144.2185.12575144.166.2185.21514.19914720.2021.21919917.72017.20222/2081147.389.1144.2185.12575144.166.2185.21514.19914720.2021.21919917.72017.20222.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTliYjlkNDQtMjFlNS00NjgzLWFmMWEtYmM2Mzc2Zjg3ZjEyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Shang-Chi (2021) 4K
-http://ultra-premium-pro.xyz:8090/movie/VSGMEGA22/vopJide2U2/67265.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTliYjlkNDQtMjFlNS00NjgzLWFmMWEtYmM2Mzc2Zjg3ZjEyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Shang-Chi (2021) 720
-http://ultra-premium-pro.xyz:8090/movie/VSGMEGA22/vopJide2U2/67263.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTliYjlkNDQtMjFlNS00NjgzLWFmMWEtYmM2Mzc2Zjg3ZjEyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Shang-Chi (2021) 1080
-http://ultra-premium-pro.xyz:8090/movie/VSGMEGA22/vopJide2U2/67264.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTliYjlkNDQtMjFlNS00NjgzLWFmMWEtYmM2Mzc2Zjg3ZjEyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Shang-Chi (2021)
-http://201.172.61.203:88/Peliculas/Sep%20Oct/Shang-Chi%20y%20la%20leyenda%20de%20los%20Diez%20Anillos%20(2021.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTliYjlkNDQtMjFlNS00NjgzLWFmMWEtYmM2Mzc2Zjg3ZjEyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Shang-Chi (2021)
-https://ia601400.us.archive.org/9/items/shang-chi.-and.-the.-legend.-of.-the.-ten.-rings.-2021_202111/Shang-Chi.And.The.Legend.Of.The.Ten.Rings.2021.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTliYjlkNDQtMjFlNS00NjgzLWFmMWEtYmM2Mzc2Zjg3ZjEyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Shang-Chi (2021) Sub
-https://ia801503.us.archive.org/11/items/shang.-chi-2021sub/Shang.Chi2021sub.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTc3ZTAwYTgtMmM4ZS00MDRiLWI2Y2EtYmRiZmE0YjkzMGY1XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Venom: Let There Be Carnage (2021) DVDScreen
-https://ia601402.us.archive.org/19/items/235141613.12521.2185195.25.311914175.2021.4234202195514.72017.12121/235141613.12521.2185195.25.311914175.2021.4234202195514.72017.12121.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTc3ZTAwYTgtMmM4ZS00MDRiLWI2Y2EtYmRiZmE0YjkzMGY1XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Venom: Let There Be Carnage (2021) CAM
-https://archive.org/download/v-3-n-0-m.-h-4-br-4.-m-4-t-4-nz-4/V3N0M.H4BR4.M4T4NZ4.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTc3ZTAwYTgtMmM4ZS00MDRiLWI2Y2EtYmRiZmE0YjkzMGY1XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Venom: Let There Be Carnage (2021) CAM
-http://ultra-premium-pro.xyz:8090/movie/VSGMEGA22/vopJide2U2/67203.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTc3ZTAwYTgtMmM4ZS00MDRiLWI2Y2EtYmRiZmE0YjkzMGY1XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Venom: Let There Be Carnage (2021) CAM
-https://ia801405.us.archive.org/33/items/ver-venom-carnage-liberado-latino-online-hd-serieskao.tv/%E2%96%B7%20Ver%20Venom%20Carnage%20Liberado%20Latino%20Online%20HD%20Serieskao.tv.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTMyNzQ4MmUtMmJiYy00YjlmLWJiMzktNjc1MGNlMzBjYjhiXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",The Card Counter (2021) Lat
-https://ia601401.us.archive.org/22/items/2185.31194.316221421519.2021.8419917.72017.20222/2185.31194.316221421519.2021.8419917.72017.12121.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTMyNzQ4MmUtMmJiYy00YjlmLWJiMzktNjc1MGNlMzBjYjhiXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",The Card Counter (2021) Sub
-https://ia601401.us.archive.org/22/items/2185.31194.316221421519.2021.8419917.72017.20222/2185.31194.316221421519.2021.8419917.72017.20222.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTMyNzQ4MmUtMmJiYy00YjlmLWJiMzktNjc1MGNlMzBjYjhiXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",The Card Counter (2021)
-http://vod.tuxchannel.tv/peliculas/720/the%20card%20counter%202021.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2FjNmEyNWMtYzM0ZS00NjIyLTg5YzYtYThlMGVjNzE1OGViXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Dune (2021) Lat
-https://ia601501.us.archive.org/7/items/421145.2021.8419917.72017.12121/421145.2021.8419917.72017.12121.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2FjNmEyNWMtYzM0ZS00NjIyLTg5YzYtYThlMGVjNzE1OGViXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Dune (2021) Sub
-https://ia601501.us.archive.org/7/items/421145.2021.8419917.72017.12121/421145.2021.8419917.72017.20212.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2FjNmEyNWMtYzM0ZS00NjIyLTg5YzYtYThlMGVjNzE1OGViXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Dune (2021)
-http://vod.tuxchannel.tv/peliculas/720/dune%202021.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2FjNmEyNWMtYzM0ZS00NjIyLTg5YzYtYThlMGVjNzE1OGViXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Dune (2021) HD
-http://51.222.153.30:9000/rombwgshgfhgdsjr/85455532potroxvix/Pel%C3%ADculas/Dune%202021HD.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2FjNmEyNWMtYzM0ZS00NjIyLTg5YzYtYThlMGVjNzE1OGViXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Dune (2021) 4K
-http://ultra-premium-pro.xyz:8090/movie/VSGMEGA22/vopJide2U2/66494.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2FjNmEyNWMtYzM0ZS00NjIyLTg5YzYtYThlMGVjNzE1OGViXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Dune (2021) 1080
-http://ultra-premium-pro.xyz:8090/movie/VSGMEGA22/vopJide2U2/66492.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2FjNmEyNWMtYzM0ZS00NjIyLTg5YzYtYThlMGVjNzE1OGViXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Dune (2021) 720
-http://ultra-premium-pro.xyz:8090/movie/VSGMEGA22/vopJide2U2/66456.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2FjNmEyNWMtYzM0ZS00NjIyLTg5YzYtYThlMGVjNzE1OGViXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Dune (2021)
-http://201.172.61.203:88/Peliculas/Sep%20Oct/dune%202021.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWQ2NzQ1NjktMzNkNS00MGY1LTgwMmMtYTllYTI5YzNmMmE0XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",007 No Time To Die (2021) Lat
-https://ia601500.us.archive.org/17/items/1416.219135.2116.495.2021.8419917.72017.12121/1416.219135.2116.495.2021.8419917.72017.12121.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWQ2NzQ1NjktMzNkNS00MGY1LTgwMmMtYTllYTI5YzNmMmE0XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",007 No Time To Die (2021) Sub
-https://ia601500.us.archive.org/17/items/1416.219135.2116.495.2021.8419917.72017.12121/1416.219135.2116.495.2021.8419917.72017.20212.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWQ2NzQ1NjktMzNkNS00MGY1LTgwMmMtYTllYTI5YzNmMmE0XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",007 No Time To Die (2021)
-http://vod.tuxchannel.tv/peliculas/720/no%20time%20to%20die%202021.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWQ2NzQ1NjktMzNkNS00MGY1LTgwMmMtYTllYTI5YzNmMmE0XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",007 No Time To Die (2021) 4K
-http://ultra-premium-pro.xyz:8090/movie/VSGMEGA22/vopJide2U2/67223.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWQ2NzQ1NjktMzNkNS00MGY1LTgwMmMtYTllYTI5YzNmMmE0XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",007 No Time To Die (2021) 1080
-http://ultra-premium-pro.xyz:8090/movie/VSGMEGA22/vopJide2U2/67225.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWQ2NzQ1NjktMzNkNS00MGY1LTgwMmMtYTllYTI5YzNmMmE0XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",007 No Time To Die (2021) 720
-http://ultra-premium-pro.xyz:8090/movie/VSGMEGA22/vopJide2U2/67224.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWQ2NzQ1NjktMzNkNS00MGY1LTgwMmMtYTllYTI5YzNmMmE0XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",007 No Time To Die (2021)
-http://201.172.61.203:88/Peliculas/Sep%20Oct/007%20sin%20tiempo%20para%20morir.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWQ2NzQ1NjktMzNkNS00MGY1LTgwMmMtYTllYTI5YzNmMmE0XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",007 No Time To Die (2021)
-https://ia801409.us.archive.org/11/items/no.-time.-to.-die.-2021/No.Time.To.Die.2021.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWE3MDVkN2EtNjQ5MS00ZDQ4LTliNzYtMjc2YWMzMDEwMTA3XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Squid Game Ep.01 (2021)
-http://201.172.61.203:88/Series/1%20sepiembre%20-%20octubre/El%20juego%20del%20calamar/T1/S01E01.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWE3MDVkN2EtNjQ5MS00ZDQ4LTliNzYtMjc2YWMzMDEwMTA3XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Squid Game Ep.02 (2021)
-http://201.172.61.203:88/Series/1%20sepiembre%20-%20octubre/El%20juego%20del%20calamar/T1/S01E02.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWE3MDVkN2EtNjQ5MS00ZDQ4LTliNzYtMjc2YWMzMDEwMTA3XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Squid Game Ep.03 (2021)
-http://201.172.61.203:88/Series/1%20sepiembre%20-%20octubre/El%20juego%20del%20calamar/T1/S01E03.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWE3MDVkN2EtNjQ5MS00ZDQ4LTliNzYtMjc2YWMzMDEwMTA3XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Squid Game Ep.04 (2021)
-http://201.172.61.203:88/Series/1%20sepiembre%20-%20octubre/El%20juego%20del%20calamar/T1/S01E04.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWE3MDVkN2EtNjQ5MS00ZDQ4LTliNzYtMjc2YWMzMDEwMTA3XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Squid Game Ep.05 (2021)
-http://201.172.61.203:88/Series/1%20sepiembre%20-%20octubre/El%20juego%20del%20calamar/T1/S01E05.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWE3MDVkN2EtNjQ5MS00ZDQ4LTliNzYtMjc2YWMzMDEwMTA3XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Squid Game Ep.06 (2021)
-http://201.172.61.203:88/Series/1%20sepiembre%20-%20octubre/El%20juego%20del%20calamar/T1/S01E06.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWE3MDVkN2EtNjQ5MS00ZDQ4LTliNzYtMjc2YWMzMDEwMTA3XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Squid Game Ep.07 (2021)
-http://201.172.61.203:88/Series/1%20sepiembre%20-%20octubre/El%20juego%20del%20calamar/T1/S01E07.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWE3MDVkN2EtNjQ5MS00ZDQ4LTliNzYtMjc2YWMzMDEwMTA3XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Squid Game Ep.08 (2021)
-http://201.172.61.203:88/Series/1%20sepiembre%20-%20octubre/El%20juego%20del%20calamar/T1/S01E08.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWE3MDVkN2EtNjQ5MS00ZDQ4LTliNzYtMjc2YWMzMDEwMTA3XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Squid Game Ep.09 (2021)
-http://201.172.61.203:88/Series/1%20sepiembre%20-%20octubre/El%20juego%20del%20calamar/T1/S01E09.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTY2NzFjODctOWUzMC00MGZhLTlhNjMtM2Y2ODBiNGY1ZWRiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY148_CR2,0,100,148_.jpg" group-title="2021",Free Guy (2021) Lat
-https://ia601409.us.archive.org/22/items/61955.72226.2021.8419917.72017.12121/61955.72226.2021.8419917.72017.12121.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTY2NzFjODctOWUzMC00MGZhLTlhNjMtM2Y2ODBiNGY1ZWRiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY148_CR2,0,100,148_.jpg" group-title="2021",Free Guy (2021) Sub
-https://ia601409.us.archive.org/22/items/61955.72226.2021.8419917.72017.12121/61955.72226.2021.8419917.72017.20222.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTY2NzFjODctOWUzMC00MGZhLTlhNjMtM2Y2ODBiNGY1ZWRiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY148_CR2,0,100,148_.jpg" group-title="2021",Free Guy (2021)
-http://vod.tuxchannel.tv/peliculas/720/free%20guy%202021.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTY2NzFjODctOWUzMC00MGZhLTlhNjMtM2Y2ODBiNGY1ZWRiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY148_CR2,0,100,148_.jpg" group-title="2021",Free Guy (2021) Sub
-https://archive.org/download/free.-guy.-sub/Free.Guy.Sub.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTY2NzFjODctOWUzMC00MGZhLTlhNjMtM2Y2ODBiNGY1ZWRiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY148_CR2,0,100,148_.jpg" group-title="2021",Free Guy (2021) 4K
-http://ultra-premium-pro.xyz:8090/movie/VSGMEGA22/vopJide2U2/65484.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTY2NzFjODctOWUzMC00MGZhLTlhNjMtM2Y2ODBiNGY1ZWRiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY148_CR2,0,100,148_.jpg" group-title="2021",Free Guy (2021) 4K op2
-http://ultra-premium-pro.xyz:8090/movie/VSGMEGA22/vopJide2U2/65485.mkv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTY2NzFjODctOWUzMC00MGZhLTlhNjMtM2Y2ODBiNGY1ZWRiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY148_CR2,0,100,148_.jpg" group-title="2021",Free Guy (2021) 1080
-http://ultra-premium-pro.xyz:8090/movie/VSGMEGA22/vopJide2U2/65483.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTY2NzFjODctOWUzMC00MGZhLTlhNjMtM2Y2ODBiNGY1ZWRiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY148_CR2,0,100,148_.jpg" group-title="2021",Free Guy (2021) 720
-http://ultra-premium-pro.xyz:8090/movie/VSGMEGA22/vopJide2U2/65482.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGJmMWUwMDgtYjEyNS00YmZhLTk3ZGEtZDliZDBhMDJkMGUyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY148_CR9,0,100,148_.jpg" group-title="2021",Snake Eyes: El origen (2021) SUB
-http://archive.org/download/ver-snake-eyes-el-origen/Ver%20Snake%20Eyes%20El%20origen.ia.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGJmMWUwMDgtYjEyNS00YmZhLTk3ZGEtZDliZDBhMDJkMGUyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY148_CR9,0,100,148_.jpg" group-title="2021",Snake Eyes: El origen (2021)
-http://ultra-premium-pro.xyz:8090/movie/VSGMEGA22/vopJide2U2/66304.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGJmMWUwMDgtYjEyNS00YmZhLTk3ZGEtZDliZDBhMDJkMGUyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY148_CR9,0,100,148_.jpg" group-title="2021",Snake Eyes: El origen (2021)
-http://201.172.61.203:88/Peliculas/Sep%20Oct/Snake%20Eyes%20El%20origen%202021.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTU5MmY0ZjctYTNlOS00MDIyLWJkZTAtNzBiOTkyNWI5MGY2XkEyXkFqcGdeQXVyNTc4MjczMTM@._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="2021",Infinite (2021)
 https://dl.dropbox.com/s/at7u3dl3w87eyod/Infinite.mkv
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODBkMTNmMmQtYTNlMy00OTRhLWE5MzgtYTZlMTUyYzY1MzkzXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Reminiscencia (2021)
-http://archive.org/download/ottmty_reminiscencia/Reminiscencia.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTY2NzFjODctOWUzMC00MGZhLTlhNjMtM2Y2ODBiNGY1ZWRiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY148_CR2,0,100,148_.jpg" group-title="2021",Free Guy (2021) CAM
-https://dl.dropbox.com/s/0siiu5uwflb2bsz/Free%20Guy.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjJiMDE1NzUtY2E1Yy00MDZlLWEyMjYtNTMyYzcyNWMzMTJhXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_QL75_UY148_CR6,0,100,148_.jpg" group-title="2021",Evangelion 3.0+1.01 Thrice Uppon a Time (2021)
-https://archive.org/download/eva-thrice-upon-atime-720p/EvaThriceUponATime%20720p.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjJiMDE1NzUtY2E1Yy00MDZlLWEyMjYtNTMyYzcyNWMzMTJhXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_QL75_UY148_CR6,0,100,148_.jpg" group-title="2021",Evangelion 3.0+1.01 Thrice Uppon a Time (2021)
-https://archive.org/download/3.0-1.0/3.0%20%2B%201.0.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjJiMDE1NzUtY2E1Yy00MDZlLWEyMjYtNTMyYzcyNWMzMTJhXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_QL75_UY148_CR6,0,100,148_.jpg" group-title="2021",Evangelion 3.0+1.01 Thrice Uppon a Time (2021)
-https://archive.org/download/evangelion.-3.0-1.0.-thrice.-upon.a.-time.-2021.-1080p.dual-lat-cinecalidad.link/Evangelion.3.0%2B1.0.Thrice.Upon.a.Time.%282021%29.1080p.dual-lat-cinecalidad.link.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODI2NjdlYWItMTE1ZC00YzI2LTlhZGQtNzE3NzA4MWM0ODYzXkEyXkFqcGdeQXVyNjU1OTg4OTM@._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="2021",Kimetsu No Yaiba: Mugen Train (2021)
-https://archive.org/download/gaman-anime-kimetsu-no-yaiba-movie-latino/%5BGaman%20Anime%5D%20Kimetsu%20no%20Yaiba%20Movie%20Latino.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODI2NjdlYWItMTE1ZC00YzI2LTlhZGQtNzE3NzA4MWM0ODYzXkEyXkFqcGdeQXVyNjU1OTg4OTM@._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="2021",Kimetsu No Yaiba: Mugen Train (2021)
-https://archive.org/download/gaman-anime-kimetsu-no-yaiba-movie-latino_202108/%5BGaman%20Anime%5D%20Kimetsu%20no%20Yaiba%20Movie%20Latino.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODI2NjdlYWItMTE1ZC00YzI2LTlhZGQtNzE3NzA4MWM0ODYzXkEyXkFqcGdeQXVyNjU1OTg4OTM@._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="2021",Demon Slayer: Mugen Train SUB (2021)
-https://archive.org/download/kimetsu-no-yaiba-mugen-train-hd-sub-espanol-henaojara.com/Kimetsu_No_Yaiba-Mugen_Train_HD_Sub_Espa%C3%B1ol_%5Bhenaojara.com%5D.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGM3YzdlOWYtNjViZS00MTE2LWE1MWUtZmE2ZTcxZjcyMmU3XkEyXkFqcGdeQXVyODEyMTI1MjA@._V1_QL75_UX200_CR0,0,200,296_.jpg" group-title="2021",Escuadrón Suicida (2021) FLV
-https://dl.dropbox.com/s/fd704796r0mmq8e/El%20Escuadr%C3%B3n%20Suicida.flv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGM3YzdlOWYtNjViZS00MTE2LWE1MWUtZmE2ZTcxZjcyMmU3XkEyXkFqcGdeQXVyODEyMTI1MjA@._V1_QL75_UX200_CR0,0,200,296_.jpg" group-title="2021",ESCUADRON SUICIDA (2021)
-http://201.172.61.203:88/Peliculas/jul%20agos/The.suicide.squad.2021.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGM3YzdlOWYtNjViZS00MTE2LWE1MWUtZmE2ZTcxZjcyMmU3XkEyXkFqcGdeQXVyODEyMTI1MjA@._V1_QL75_UX200_CR0,0,200,296_.jpg" group-title="2021",The suicide Squad 2021
-http://vod.tuxchannel.tv:80/peliculas/720/the%20suicide%20squad%202021.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGM3YzdlOWYtNjViZS00MTE2LWE1MWUtZmE2ZTcxZjcyMmU3XkEyXkFqcGdeQXVyODEyMTI1MjA@._V1_QL75_UX200_CR0,0,200,296_.jpg" group-title="2021",The suicide Squad 2021
-https://storage.googleapis.com/tiotv/Peliculas/Escuadron_Suicida_2.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTI2YTI0MWEtNGQ4OS00ODIzLWE1MWEtZGJiN2E3ZmM1OWI1XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UX200_CR0,0,200,296_.jpg" group-title="2021",La guerra del mañana (2021) DUAL
-http://vod.tuxchannel.tv:80/peliculas/720/the%20tomorrow%20war%202021.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTI2YTI0MWEtNGQ4OS00ODIzLWE1MWEtZGJiN2E3ZmM1OWI1XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UX200_CR0,0,200,296_.jpg" group-title="2021",La guerra del mañana (2021)
 https://dl.dropboxusercontent.com/s/re221mzlmbkp5l2/%20La%20Guerra%20Del%20Ma%C3%B1ana%20%282021%29.mp4
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTI2YTI0MWEtNGQ4OS00ODIzLWE1MWEtZGJiN2E3ZmM1OWI1XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UX200_CR0,0,200,296_.jpg" group-title="2021",La guerra del mañana (2021)
 https://lh3.googleusercontent.com/bKO514vK1pvaNc0UxDu6tShs0xwAzxwJUsMb9nDWP5oE96cZqbJBFynM1kUpY7a83WwunO2dRYehMH2bmt7CPJft3_3XM_6kezbBsHdJQznotOlt2pjYDcdUyotTUhbjmwbVttUYh-g=m18
-
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDE1MGRlNTQtZjc4ZC00MTI0LWEwY2MtODk1YTM2NmFmYTNmXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Jungle Cruise (2021) LAT
 https://archive.org/download/juunng-13-cru-153/Juunng13%20%C3%87ru153.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDE1MGRlNTQtZjc4ZC00MTI0LWEwY2MtODk1YTM2NmFmYTNmXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Jungle Cruise (2021) LAT
-https://storage.googleapis.com/tiotv/Peliculas/Jungle%20Cruise.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI0NmFkYzEtNzU2YS00NTg5LWIwYmMtNmQ1MTU0OGJjOTMxXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_QL75_UX100_CR0,5,100,148_.jpg" group-title="2021",Rápidos y Furiosos 9 HD (2021)
-https://storage.googleapis.com/tiotv/Peliculas/Fast%20&%20Furious%209.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI0NmFkYzEtNzU2YS00NTg5LWIwYmMtNmQ1MTU0OGJjOTMxXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_QL75_UX100_CR0,5,100,148_.jpg" group-title="2021",Rápidos y Furiosos 9 (2021)
-https://pelisgo.tk/abc/pg.php?v=385128&cv=43207/f9
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI0NmFkYzEtNzU2YS00NTg5LWIwYmMtNmQ1MTU0OGJjOTMxXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_QL75_UX100_CR0,5,100,148_.jpg" group-title="2021",Rápidos y Furiosos 9 (2021) opcion 1
 https://archive.org/download/r-4-f-0-9/R4%20%26%20F0%209.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI0NmFkYzEtNzU2YS00NTg5LWIwYmMtNmQ1MTU0OGJjOTMxXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_QL75_UX100_CR0,5,100,148_.jpg" group-title="2021",Rápidos y Furiosos 9 (2021) opcion 2
-https://splogs-my.sharepoint.com/:v:/g/personal/laureanobrizuela_my365_ws/ETxbhJim6ilKm_7Gy28sQwoB0ElLXtuoa1WxLzxyb4Puxw?download=1
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI0NmFkYzEtNzU2YS00NTg5LWIwYmMtNmQ1MTU0OGJjOTMxXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_QL75_UX100_CR0,5,100,148_.jpg" group-title="2021",Rápidos y Furiosos 9 (2021) 
-http://51.222.153.30:9000/rombwgshgfhgdsjr/85455532potroxvix/Pel%C3%ADculas/R%C3%A1pidos%20y%20Furiosos%209%201080.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI0NmFkYzEtNzU2YS00NTg5LWIwYmMtNmQ1MTU0OGJjOTMxXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_QL75_UX100_CR0,5,100,148_.jpg" group-title="2021",Rápidos y Furiosos 9 (2021) full HD latino
-https://storage.googleapis.com/tiotv/Peliculas/Fast%20%26%20Furious%209.mp4
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjRmNDI5MjMtMmFhZi00YzcwLWI4ZGItMGI2MjI0N2Q3YmIwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Viuda Negra (2021) DUAL
-http://vod.tuxchannel.tv:80/peliculas/720/black%20widow%202021.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjRmNDI5MjMtMmFhZi00YzcwLWI4ZGItMGI2MjI0N2Q3YmIwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Viuda Negra (2021)
-http://201.172.61.203:88/Peliculas/jul%20agos/Black%20Window.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjRmNDI5MjMtMmFhZi00YzcwLWI4ZGItMGI2MjI0N2Q3YmIwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Viuda Negra (2021) Black Widow 4K
-http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/60289.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjRmNDI5MjMtMmFhZi00YzcwLWI4ZGItMGI2MjI0N2Q3YmIwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Viuda Negra (2021) Black Widow 1080p
-http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/60287.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjRmNDI5MjMtMmFhZi00YzcwLWI4ZGItMGI2MjI0N2Q3YmIwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Viuda Negra (2021)
 https://dl.dropboxusercontent.com/s/b6oqxueq6rujm1m/Viuda%20Negra%20%282021%29.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjRmNDI5MjMtMmFhZi00YzcwLWI4ZGItMGI2MjI0N2Q3YmIwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Black Widow (2021)
-http://archive.org/download/blacuidow/blacuidow.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjRmNDI5MjMtMmFhZi00YzcwLWI4ZGItMGI2MjI0N2Q3YmIwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Black Widow (2021)
-https://storage.googleapis.com/tiotv/Peliculas/black_widow_2021.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTAzN2ZlZTEtOTA5ZS00MGFjLTliYWMtYTQzYTFlYTIwZDVmXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Space Jam: Nuevas leyendas (2021) DUAL
-http://vod.tuxchannel.tv/peliculas/720/space%20jam%20a%20new%20legacy%202021.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTAzN2ZlZTEtOTA5ZS00MGFjLTliYWMtYTQzYTFlYTIwZDVmXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Space Jam: Nuevas leyendas (2021)
-http://201.172.61.203:88/Peliculas/jul%20agos/Space%20Jam%20-%20A%20New%20Legacy%20(2021).mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTAzN2ZlZTEtOTA5ZS00MGFjLTliYWMtYTQzYTFlYTIwZDVmXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Space Jam: Nuevas Leyendas (2021) 4K
-http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/60363.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTAzN2ZlZTEtOTA5ZS00MGFjLTliYWMtYTQzYTFlYTIwZDVmXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Space Jam: Nuevas Leyendas (2021) 1080P
-http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/60362.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTAzN2ZlZTEtOTA5ZS00MGFjLTliYWMtYTQzYTFlYTIwZDVmXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Space Jam: Nuevas Leyendas (2021) 720p
-http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/60361.mkv
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTAzN2ZlZTEtOTA5ZS00MGFjLTliYWMtYTQzYTFlYTIwZDVmXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Space Jam: Nuevas leyendas (2021)
-https://storage.googleapis.com/tiotv/Peliculas/Space%20Jam%202.mp4
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGQ2MGQ1ZGQtOTY4MS00ZDA5LWE5YmUtMGE0YTE2YTZiODZkXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_QL75_UX100_CR0,3,100,148_.jpg" group-title="2021",Duro de cuidar 2 (2021)
-http://201.172.61.203:88/Peliculas/mkv/duro%20de%20cuidar%202.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGQ2MGQ1ZGQtOTY4MS00ZDA5LWE5YmUtMGE0YTE2YTZiODZkXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_QL75_UX100_CR0,3,100,148_.jpg" group-title="2021",Duro de cuidar 2 (2021)
-https://storage.googleapis.com/tiotv/Peliculas/Duro_de_Cuidar_2_2021.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWRkOTYzZTQtMzQwNi00NDYwLTk4NjUtN2FjYTI4Y2UzM2RjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",El conjuro 3: El Diablo me obligó a hacerlo (2021)
-http://201.172.61.203:88/Peliculas/mkv/El%20Conjuro%203-%20El%20diablo%20me%20oblig%c3%b3%20a%20hacerlo%20(2021).mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWRkOTYzZTQtMzQwNi00NDYwLTk4NjUtN2FjYTI4Y2UzM2RjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",El Conjuro 3 el Diablo me Obligó a Hacerlo (2021)
 https://lh3.googleusercontent.com/CHHfklfunivBx4eE7F5tuMrxOBms20l3qz2k-iyf0wumJjQUes7kpx0oWviNqvDhjR6Rd8SDue7ehyxtpSZ2YYMFmH6q-8ZJjPMM4p6BgaYRkXh5VhB0qrJJ4NPO3WvgjmKvgj8tk7Y=m37
 
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWRkOTYzZTQtMzQwNi00NDYwLTk4NjUtN2FjYTI4Y2UzM2RjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",El conjuro 3: El Diablo me obligó a hacerlo (2021)
-http://globalentertainmentec.xyz:8000/movie/iptv/iptv/137074.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWRkOTYzZTQtMzQwNi00NDYwLTk4NjUtN2FjYTI4Y2UzM2RjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",El conjuro 3: El Diablo me obligó a hacerlo (2021)
-https://storage.googleapis.com/tiotv/Peliculas/El%20Conjuro%203.mp4
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzZlYTI0NDYtODg4YS00YjUxLTgwZjItY2NhMDE0MjQ2ZTA5XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Disomnia (2021)
-http://201.172.61.203:88/Peliculas/mkv/Awake.2021.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzZlYTI0NDYtODg4YS00YjUxLTgwZjItY2NhMDE0MjQ2ZTA5XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Disomnia (2021)
-http://ww1.youmovieapp.online:80/stream/720/xghmBPtEtCqFepn.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDM5ZDM0ZDItZDgwYy00MWFmLTg2MjYtZDQ4OGViYTY3ODQ1XkEyXkFqcGdeQXVyMjU0ODQ5NTA@._V1_QL75_UY148_CR3,0,100,148_.jpg" group-title="2021",Samurai X: El Fin (2021)
-http://201.172.61.203:88/Peliculas/mkv/Samur%c3%a1i%20X%20El%20Fin%20(2021)%20NF%20WEB-DL%201080p%20Latino%20PGD.mkv%20-%20Google%20Drive.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDM5ZDM0ZDItZDgwYy00MWFmLTg2MjYtZDQ4OGViYTY3ODQ1XkEyXkFqcGdeQXVyMjU0ODQ5NTA@._V1_QL75_UY148_CR3,0,100,148_.jpg" group-title="2021",Samurai X El Fin (2021)
 https://lh3.googleusercontent.com/yPHhELJbKxBMkeBDj6efJfAL6MWiVjElCOrsRZ_qs7nJZMmoNt7Tjg28MSeGALnNvmYhY_ukMuCH5EbeLLuGQ4C7fooNUN2I4GVn0oFNcJUSotxReBEPGKHTZXtNHafETsCqKUEA12A=m18
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDM5ZDM0ZDItZDgwYy00MWFmLTg2MjYtZDQ4OGViYTY3ODQ1XkEyXkFqcGdeQXVyMjU0ODQ5NTA@._V1_QL75_UY148_CR3,0,100,148_.jpg" group-title="2021",Samurai X: El Fin (2021)
-http://tvplaymundo.com:80/movie/marlon/marlon/23097.mkv
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTE2ODU4NDEtNmRjNS00OTk1LTg4NmMtNTAzYzVlNzJmYjgzXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Un lugar en silencio: parte 2 (2021)
-http://201.172.61.203:88/Peliculas/jul%20agos/A%20Quiet%20Place%20Part%20II%20(2021)%20%5b1080p%20AMZN%20WEB-DL%5d%20%5bzgnrips%5d.mkv%20-%20Google%20Drive.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTE2ODU4NDEtNmRjNS00OTk1LTg4NmMtNTAzYzVlNzJmYjgzXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Un lugar en silencio Parte II (2021)
 https://lh3.googleusercontent.com/MfpTJxg8rxbMMfIxAoezrhwIoRK9qUUcb5uSb0jVgUf3GdWKEQA3sSt4SHOYG2g753wTR9ZNPFqLslFuCX6dO32NrKLw6H94_B2O89OIgxAxiDPOZspZhXDl8wUXu7AQlPuT06OGKjI=m18
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTE2ODU4NDEtNmRjNS00OTk1LTg4NmMtNTAzYzVlNzJmYjgzXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Un lugar en silencio Parte II (2021)
-https://storage.googleapis.com/tiotv/Peliculas/lugar_silencio_2.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWY1N2I5MGUtZTBmNS00MWZmLWEyNzAtZjliNzk0ZDVkYzI1XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UX100_CR0,5,100,148_.jpg" group-title="2021",Un jefe en pañales: Negocios de familia (2021)
-http://201.172.61.203:88/Peliculas/jul%20agos/The.Boss.Baby.Family.Business.2021.WEB-DL.1080P-Www.PeliculasGoogleDrive.Info.mkv%20-%20Google%20Drive.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWY1N2I5MGUtZTBmNS00MWZmLWEyNzAtZjliNzk0ZDVkYzI1XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UX100_CR0,5,100,148_.jpg" group-title="2021",Un jefe en pañales: Negocios de familia (2021)
-http://51.79.68.14:999/PELISSD/the-boss-baby-family-business-2021-Latino.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWY1N2I5MGUtZTBmNS00MWZmLWEyNzAtZjliNzk0ZDVkYzI1XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UX100_CR0,5,100,148_.jpg" group-title="2021",Un jefe en pañales: Negocios de familia (2021)
-https://storage.googleapis.com/tiotvPeliculas/Estrenos 2021/bebe%20jefazo%202021.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTIxYmNhOTYtMmE5MC00MTRiLTgwMTEtMWM5N2ZlNzRlOWE4XkEyXkFqcGdeQXVyNTc3NjU4NDE@._V1_QL75_UY148_CR5,0,100,148_.jpg" group-title="2021",Jovenes Titanes en accion ven Space Jam (2021)
-http://201.172.61.203:88/Peliculas/jul%20agos/Teen.Titans.Go.See.Space.Jam.2021.WEBDL.1080p.Latino.PGD..mkv%20-%20Google%20Drive.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDVlZTEwMTItNmE4Zi00ZGFhLWI4NjgtMDdiZTA5NDdmNWYyXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Spirit: Indomable (2021)
-http://201.172.61.203:88/Peliculas/mkv/Spirit.Untamed.2021.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDVlZTEwMTItNmE4Zi00ZGFhLWI4NjgtMDdiZTA5NDdmNWYyXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Spirit: Indomable (2021)
-http://iptv.tvxtremegold.com:25461/movie/SoloMovies/gI180zr5Py/36483.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDVlZTEwMTItNmE4Zi00ZGFhLWI4NjgtMDdiZTA5NDdmNWYyXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",SPIRIT EL CORCEL INDOMABLE (2021)
 http://archive.org/download/img20200212wa0134_20200217/0000038504.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGY0NzgzYzctYWQwMC00MzM2LThjNGMtZjFjMWUyNzg0ZmM0XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Ejercito de los muertos (2021) DUAL
-http://vod.tuxchannel.tv:80/peliculas/720/army%20of%20thieves%202021.mkv
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGY0NzgzYzctYWQwMC00MzM2LThjNGMtZjFjMWUyNzg0ZmM0XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Ejercito de los muertos (2021)
-http://ww1.youmovieapp.online:80/stream/720/vUC9a8wmd9V11mP.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGY0NzgzYzctYWQwMC00MzM2LThjNGMtZjFjMWUyNzg0ZmM0XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",El Ejército de los Muertos (2021)
 https://lh3.googleusercontent.com/np-9UbEzrdBSlPq_2DR8fhEst8H-LiIWlmDhzxNXfrCO6DA8--RzvsZpO1DSw8GYGXQRYDkVOcfhvjWIxuFn1zLZWifNN5Er76ryNB5rmcMV9Q1XXvuOU4yAP0NDpielY3SRWPZCyb4=m37
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTdmOTQwY2MtYjJhOC00OGMwLWFmODYtNzU4ZWYzYjc5NzhhXkEyXkFqcGdeQXVyMjM4MTU4NjQ@._V1_QL75_UY148_CR4,0,100,148_.jpg" group-title="2021",La Momia asciende (2021)
-http://201.172.61.203:88/Peliculas/Marzo%20Abril/la%20momia%202021.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWI5YTUxOWEtZmRiZS00ZmQxLWE2NzctYTRiODA2NzE1ZjczXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Cruella (2021) DUAL
-http://vod.tuxchannel.tv:80/peliculas/720/cruella%202021.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWI5YTUxOWEtZmRiZS00ZmQxLWE2NzctYTRiODA2NzE1ZjczXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Cruella (2021)
-http://201.172.61.203:88/Peliculas/mkv/Ver%20Cruella%20(2021)%20Online%20Latino%20HD%20-%20Pelisplus.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWI5YTUxOWEtZmRiZS00ZmQxLWE2NzctYTRiODA2NzE1ZjczXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Cruella (2021)
 https://lh3.googleusercontent.com/Gdjw9cfqg77L9Vwo5fvL0DVpR-c_I4K6t6MiNKLiJ7BVRwir98wZqGB7k_0eJ6BXaeVNA4JVfI5qsil1tRpHex2EDKsAUfHPqBzehhiuhHyJjLX5N2VKVG4B9xJZygnB8ann8oWu_6M=m37
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWI5YTUxOWEtZmRiZS00ZmQxLWE2NzctYTRiODA2NzE1ZjczXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Cruella (2021)
-https://archive.org/download/tinaco_20210528/Crue11a.mkv
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWQyZGQwMzktMjFhYS00MmZmLWI3ZDEtNzg3MzRmM2ZjMDc1XkEyXkFqcGdeQXVyODY5NzkyMjA@._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="2021",Scooby Doo: La espada y Scooby (2021)
-http://201.172.61.203:88/Peliculas/Febrero/Scooby.Doo.The.Sword.And.The.Scoob.2021.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGFlNTdmYWQtM2IzMi00YTY3LTlmMDQtZDI5NGQ5MjYzZmEwXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="2021",Pequeños detalles (2021)
-http://201.172.61.203:88/Peliculas/Danna/The%20Little%20Things%20(2021)%20%5b2160p%20HDR%20HMAX%20WEB-DL%5d%20%5bzgnrips%5d.mkv%20-%20Google%20Drive.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGFlNTdmYWQtM2IzMi00YTY3LTlmMDQtZDI5NGQ5MjYzZmEwXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="2021",Pequeños detalles (2021)
-http://daleplay.biz:8080/movie/maite/maite/83231.mkv
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzE3ODhiNzAtOWY4MS00NTdiLThmNDctNDM4NjRiNGFmYjI1XkEyXkFqcGdeQXVyMTI2ODM1ODUw._V1_QL75_UY148_CR9,0,100,148_.jpg" group-title="2021",Tom & Jerry (2021)
-http://vod.tuxchannel.tv/peliculas/720/tom%20and%20jerry%202021.mkv
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTMyY2Q2MDctMDFlMS00MWEzLTk1NmEtNDcxNzg1ZGJlNGU5XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",El rey de Zamunda (2021)
-http://201.172.61.203:88/Peliculas/Febrero/Coming%202%20America%20(2021)%20%5b1080p%20AMZN%20WEB-DL%5d%20%5bzgnrips%5d.mkv%20-%20Google%20Drive.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTMyY2Q2MDctMDFlMS00MWEzLTk1NmEtNDcxNzg1ZGJlNGU5XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",El rey de Zamunda (2021)
-http://vod.tuxchannel.tv/peliculas/720/coming%202%20america%202021.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTMyY2Q2MDctMDFlMS00MWEzLTk1NmEtNDcxNzg1ZGJlNGU5XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Coming 2 America (2021)
-http://series.vodcontetmx.info/movies/dual/Coming_2_America_2021(484718)/Coming_2_America_2021.mkv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjI3NDg0ZTEtMDEwYS00YWMyLThjYjktMTNlM2NmYjc1OGRiXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Liga de la Justicia de Zack Snyder (2021)
-http://201.172.61.203:88/Peliculas/Marzo%20Abril/Zack%20Snyder's%20Justice%20League.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjI3NDg0ZTEtMDEwYS00YWMyLThjYjktMTNlM2NmYjc1OGRiXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Liga de la Justicia de Zack Snyder (2021)
-http://vod.tuxchannel.tv/peliculas/720/zack%20snyders%20justice%20league%202021.mkv
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODdlNThhMTUtNmU1OS00ZjM3LWE1ZjMtOWViN2RhYWRiZTg5XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",El protector (2021) DUAL
-http://vod.tuxchannel.tv:80/peliculas/720/the%20marksman%202021.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODdlNThhMTUtNmU1OS00ZjM3LWE1ZjMtOWViN2RhYWRiZTg5XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",El protector (2021)
-http://201.172.61.203:88/Peliculas/Marzo%20Abril/Ver%20The%20Marksman%20(El%20protector)%20(2021).mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODdlNThhMTUtNmU1OS00ZjM3LWE1ZjMtOWViN2RhYWRiZTg5XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",El Protector (2021)
-https://archive.org/download/tinaco_20210413/The.Marksman.mkv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmYzMzU4NjctNDI0Mi00MGExLWI3ZDQtYzQzYThmYzc2ZmNjXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Godzilla Vs Kong (2021)
-http://201.172.61.203:88/Peliculas/Marzo%20Abril/Godzilla%20Vs%20Kong%20(2021)%20%5b1080P%20Hmax%20Web-DL%5d%20Placebo.mkv%20-%20Google%20Drive.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmYzMzU4NjctNDI0Mi00MGExLWI3ZDQtYzQzYThmYzc2ZmNjXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Godzilla Vs Kong (2021)
-http://vod.tuxchannel.tv:80/peliculas/720/godzilla%20vs%20kong%202021.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmYzMzU4NjctNDI0Mi00MGExLWI3ZDQtYzQzYThmYzc2ZmNjXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Godzilla vs Kong (2021)
 https://lh3.googleusercontent.com/O0q0eqzCAO9D7qCufPx2Qwka_VQJdGznVnfYU4JJJvsC0DsXY1ViGWWTd5p3JnR1JdnB36WmAjDMXiDkcFaZF-WWLCgzHSyUXWaUyDYT-2yu7O29K1SG_HBQdMQp8xvhxPuyDtWCFMk=m37
 
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2ZlNWIxODMtN2YwZi00ZjNmLWIyN2UtZTFkYmZkNDQyNTAyXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Mortal Kombat (2021) FHD
-http://dl.dropbox.com/s/m3wcoh2jrej23i5/Mortal%20K.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2ZlNWIxODMtN2YwZi00ZjNmLWIyN2UtZTFkYmZkNDQyNTAyXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Mortal Kombat (2021)
-http://201.172.61.203:88/Peliculas/Marzo%20Abril/Mortal%20Kombat%20(2021).mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2ZlNWIxODMtN2YwZi00ZjNmLWIyN2UtZTFkYmZkNDQyNTAyXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Mortal Kombat (2021)
 http://archive.org/download/mkombt-021/mkombt-021.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2ZlNWIxODMtN2YwZi00ZjNmLWIyN2UtZTFkYmZkNDQyNTAyXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Mortal Kombat (2021)
-https://lh3.googleusercontent.com/Ok1r7PUVxAhga6gJcHkrtrqBVAIWxCVPh57q81kJIvTo9NtUnPSmyP15AAkrLQUQ6aWVSnJ25Ku1AaErG5ISJAzHu0etHZBvuHgzC-YAfrbTQlsNJUUnJz8T6OfU7oz0wQD3bqXqQO0=m22
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2ZlNWIxODMtN2YwZi00ZjNmLWIyN2UtZTFkYmZkNDQyNTAyXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",Mortal Kombat (2021)[4K][DUAL]
-https://archive.org/download/manjaro/manjaro.mkv
-
-
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmVlNWJkZWYtYmJkMy00YTZlLTgwODMtZjVmOGMzMmM1ZTk2XkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",La Mujer en la Ventana (2021)
 https://lh3.googleusercontent.com/Ap6QakWh9rrAAOSFcP2ZY_wuJv2k0mW5hU1v2XR8KCX-npgegV4R1trQDpO5nu8FWJgnYJbVI1OdKtDrUDS-RbBt6Tjio4e4gFE3Xld_FgsT_4SCK_tIplLEKRwZOMrce_aTehKmLyU=m37
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmVlNWJkZWYtYmJkMy00YTZlLTgwODMtZjVmOGMzMmM1ZTk2XkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2021",La Mujer en la Ventana (2021)
-https://archive.org/download/70452SRREGIO/70452SRREGIO.mkv
 
-#EXTINF:-1 group-title="2021", DONACIONES EN
-https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 group-title="2020", DONACIONES EN
-https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGJhNWRiOWQtMjI4OS00ZjcxLTgwMTAtMzQ2ODkxY2JkOTVlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2020",The Father (2020) Lat
-https://ia601506.us.archive.org/34/items/2185.6121519.2020.8419917.72017.20222/2185.6121519.2020.8419917.72017.12121.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGJhNWRiOWQtMjI4OS00ZjcxLTgwMTAtMzQ2ODkxY2JkOTVlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2020",The Father (2020) Sub
-https://ia601506.us.archive.org/34/items/2185.6121519.2020.8419917.72017.20222/2185.6121519.2020.8419917.72017.20222.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzg0NGM2NjAtNmIxOC00MDJmLTg5ZmYtYzM0MTE4NWE2NzlhXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="2020",Tenet (2020)
-https://mataocio-cdn5.mataocio-cdn5.workers.dev/Otras/Tenet%2520-%25202020.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzg0NGM2NjAtNmIxOC00MDJmLTg5ZmYtYzM0MTE4NWE2NzlhXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="2020",Tenet (2020)
-http://vod.tuxchannel.tv:80/peliculas/720/tenet%202020.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzg0NGM2NjAtNmIxOC00MDJmLTg5ZmYtYzM0MTE4NWE2NzlhXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="2020",Tenet (2020)
-http://201.172.61.81:85/peliculas/sagas/Tenet%20(2020)%20%5b1080p%20BRRip%20IMAX%5d%20%5bzgnrips%5d.mkv%20-%20Google%20Drive.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzcyMzU4MDUtM2JhOC00ZDg2LTg5MGMtZjc2OGMyMjhlMGE2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2020",El día del fin del mundo (2020)
-http://vod.tuxchannel.tv/peliculas/720/greenland%202020.mkv
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDNkODA5ZGQtODczOS00OTQxLThhMTItMjk0ZmNhMDM0YjNmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2020",Doctor Dolittle (2020)
-https://mataocio-cdn5.mataocio-cdn5.workers.dev/Otras%25203/Dolittle%2520-%25202020.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGEyOWQ1NDEtY2NhNy00MjRjLWIyZGItMjc2ODdmZmY2NGQ1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UY148_CR6,0,100,148_.jpg" group-title="2020",El robo del Siglo (2020)
-http://201.172.61.81:85/peliculas/octubre/*el%20robo%20del%20siglo.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjEwNjYyMTMtODc5Yi00NTg5LTkwMzAtZTkyOTcyNTFkMGIyXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2020",Venganza implacable (2020)
-http://vod.tuxchannel.tv:80/peliculas/720/honest%20thief%202020.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzQ3NTQxMjItODBjYi00YzUzLWE1NzQtZTBlY2Y2NjZlNzkyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY148_CR0,0,100,148_.jpg" group-title="2020",Aves de Presa (2020)
-http://vod.tuxchannel.tv/peliculas/720/birds%20of%20prey%202020.mkv
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmFhM2U0N2YtZDA3NS00MDcxLThlZTMtNTEwMGNiZWExNmJlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2020",Mercenarios de Elite (2020)
-http://vod.tuxchannel.tv/peliculas/720/hard%20kill%202020.mkv
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjA5YjA2YjUtMGRlNi00ZTU4LThhZmMtNDc0OTg4ZWExZjI3XkEyXkFqcGdeQXVyNjUyNjI3NzU@._V1_QL75_UY148_CR9,0,100,148_.jpg" group-title="2020",Bloodshot (2020)
-http://201.172.61.81:85/peliculas/octubre/*Bloodshot.2020.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjFhM2I4ZDYtZWMwNC00NTYzLWE3MDgtNjgxYmM3ZWMxYmVmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,5,100,148_.jpg" group-title="2020",El hombre invisible (2020)
-http://201.172.61.81:85/peliculas/4K/*The.invisible.man.2020.mp4.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWFmYjBiYzItYjBlOS00NThkLTljMWEtYzQ4NTdlNDlmMjg0XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2020",Artemis Fowl (2020)
-http://201.172.61.81:85/peliculas/4K/*Artemis.Fowl.2020.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTFkZjYxNWItZmE2MC00MGE4LWIxYTgtZmIzOWM1YmI2YWEzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="2020",Greyhound: en la mira del enemigo (2020)
-http://vod.tuxchannel.tv/peliculas/720/greyhound%202020.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTFkZjYxNWItZmE2MC00MGE4LWIxYTgtZmIzOWM1YmI2YWEzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="2020",Greyhound: en la mira del enemigo (2020) HD
-http://201.172.61.81:85/peliculas/octubre/*Greyhound-%20Enemigos%20bajo%20el%20mar.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDliY2E1MjUtNzZkOS00MzJlLTgyOGEtZDg4MTI1NzZkMTBhXkEyXkFqcGdeQXVyNjMwMzc3MjE@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2020",Mulán (2020)
-http://vod.tuxchannel.tv/peliculas/720/mulan%202020.mkv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWYwNjVhZDUtZjk2Yi00Mjc5LTkwYWMtMzU2ZDY1N2VjZGU1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL75_UY148_CR0,0,100,148_.jpg" group-title="2020",Impractical Jokers (2020)
-http://vod.tuxchannel.tv/peliculas/720/impractical%20jokers%20the%20movie%202020.mkv
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDQ2NTdmNDgtMGIwMS00ODE2LTk5M2EtZGZhYzc4MWRlNTU3XkEyXkFqcGdeQXVyNTc4MjczMTM@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2020",Los nuevos mutantes (2020)
-http://vod.tuxchannel.tv/peliculas/720/the%20new%20mutants%202020.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGJiZDc1OWMtNzMwMC00NzM0LTljMDgtZGJjODVhZDMzMmJjXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2020",Las crónicas de Navidad 2 (2020)
-http://vod.tuxchannel.tv/peliculas/720/the%20christmas%20chronicles%202%202020.mkv
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTlhNzJjYzYtNGU3My00ZDI5LTgzZDUtYzllYjU1ZmU0YTgwXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2020",Mujer Maravilla 1984 (2020)
-http://vod.tuxchannel.tv/peliculas/720/wonder%20woman%202020.mkv
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGE1MDg5M2MtNTkyZS00MTY5LTg1YzUtZTlhZmM1Y2EwNmFmXkEyXkFqcGdeQXVyNjA3OTI0MDc@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2020",Soul (2020)
-http://vod.tuxchannel.tv/peliculas/720/soul%202020.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGE1MDg5M2MtNTkyZS00MTY5LTg1YzUtZTlhZmM1Y2EwNmFmXkEyXkFqcGdeQXVyNjA3OTI0MDc@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2020",Soul (2020)
-http://51.77.66.14/Soul%20(2020)%201080p%20BRrip%20x264%20%5bspa,%20eng%5d.mkv
-#EXTINF:-1 group-title="2020", DONACIONES EN
-https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 group-title="2019", DONACIONES EN
-https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGVlM2FjMzYtMWEwNC00NTRlLTlhZWEtNDVkN2QzOTJjYjJkXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2019",Siberia (2019) Lat
-https://ia601402.us.archive.org/10/items/21102620101.2019.220201018.72018.13122/21102620101.2019.220201018.72018.13122.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGVlM2FjMzYtMWEwNC00NTRlLTlhZWEtNDVkN2QzOTJjYjJkXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2019",Siberia (2019) Sub
-https://ia601402.us.archive.org/10/items/21102620101.2019.220201018.72018.13122/21102620101.2019.220201018.72018.21232.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzgxNWJiOWQtZDA5Mi00NjBkLWIxMzUtZTg3Yjk5NjYyMDZjXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2019",Pinocho (2019)
-http://201.172.61.203:88/Peliculas/mkv/Ver%20Pinocho%20(2019)%20Online%20Latino%20HD%20-%20Pelisplus.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTgxNmY2MDAtM2QzYS00MmNmLTk2NWYtNDA1NzRiOGM4MzQwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY148_CR0,0,100,148_.jpg" group-title="2019",Escuadron de la muerte (2019)
-https://mataocio-cdn5.mataocio-cdn5.workers.dev/El%2520equipo%2520de%2520la%2520muerte%2520-%25202019.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQ2ODIyMjY4MF5BMl5BanBnXkFtZTgwNzY4ODI2NzM@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2019",Aladdin (2019)
-https://mataocio-cdn5.mataocio-cdn5.workers.dev/Aladdin%25202019.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzA5Y2Q2YjktZDYwMi00NTdmLThlMjctMmY5NDgwOWRhZDUxXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2019",Midway (2019)
-https://mataocio-cdn5.mataocio-cdn5.workers.dev/Otras%25203/Midway%2520-%25202019.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2UwMDVmMDItM2I2Yi00NGZmLTk4ZTUtY2JjNTQ3OGQ5ZjM2XkEyXkFqcGdeQXVyMTA1OTYzOTUx._V1_QL75_UY148_CR0,0,100,148_.jpg" group-title="2019",Ford vs Ferrari: Le Mans 66 (2019)
-https://mataocio-cdn5.mataocio-cdn5.workers.dev/Otras%25203/Ford%2520v%2520Ferrari%2520-%25202019.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjcwNjZhNGYtOGNlNy00NGI3LTlmODMtMGZlMjA3YjA0Njg0XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2019",Zombieland 2 (2019)
-https://mataocio-cdn5.mataocio-cdn5.workers.dev/Otras%25203/Zombieland%25202.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmU0ZDI1MDctODBiZi00ZTg3LWFiZmUtMmFkMzYyYzc4ZDkxXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_QL75_UY148_CR1,0,100,148_.jpg" group-title="2019",No Manches Frida 2 (2019)
-http://201.172.61.203:88/Peliculas/mkv/Ver%20No%20Manches%20Frida%202%20(2019)%20Online%20Latino%20HD%20-%20Pelisplus.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRmMWZhZGItYzA4MC00ZDYyLWE0OTMtYmM0MWRiN2Q4NGU2XkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2019",Agente bajo fuego (2019)
-http://tux-vod.dynu.com:80/peliculas/720/angel%20has%20fallen%202019.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTBmYzNmYjItNWU5OS00ZmZlLWFkMmItZWQ5NTlmMWYzMjA5XkEyXkFqcGdeQXVyNDExMzMxNjE@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2019",Cold Blood: A sangre fria (2019)
-http://tux-vod.dynu.com:80/peliculas/720/cold%20blood%202019.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzE2ZjQxNjEtNmI2ZS00ZmU0LTg4M2YtYzVhYmRiYWU0YzI1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2019",Escuadrón 6 (2019)
-http://tux-vod.dynu.com:80/peliculas/720/6%20underground%202019.mkv
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzYTQyYzItMzAwYi00YjZlLThjNTUtNzMyMDdkYzJiNWM4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2019",Mujercitas (2019)
-http://201.172.61.81:85/peliculas/octubre/*Mujercitas.2019.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA0YjYyZGMtN2U0Ni00YmY4LWJkZTItYTMyMjY3NGYyMTJkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2019",Frozen 2 (2019)
-http://tux-vod.dynu.com/peliculas/720/frozen%20II%202019.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYzMDM4NzkxOV5BMl5BanBnXkFtZTgwNzM1Mzg2NzM@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2019",Toy story 4 (2019)
-http://tux-vod.dynu.com/peliculas/720/toy%20story%204%202019.mkv
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjMxMDE0MDI1Ml5BMl5BanBnXkFtZTgwMzExNTU3NjM@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2019",Dumbo (2019)
-http://tux-vod.dynu.com/peliculas/720/dumbo%202019.mkv
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTIzYmUyMmEtMWQzNC00YzExLTk3MzYtZTUzYjMyMmRiYzIwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY148_CR1,0,100,148_.jpg" group-title="2019",Rápidos y furiosos: Hobbs & Shaw (2019)
-http://tux-vod.dynu.com/peliculas/720/fast%20and%20furious%20presents%20hobbs%20and%20shaw%202019.mkv
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzc3ZWIwYjktZWE1ZC00MTRlLWE1NzUtYTYzYjJlNmMyYTZhXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_QL75_UY148_CR2,0,100,148_.jpg" group-title="2019",Doom Annihilation (2019)
-http://tux-vod.dynu.com/peliculas/720/doom%20annihilation%202019.mkv
-#EXTINF:-1 group-title="2019", DONACIONES EN
-https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 group-title="2018", DONACIONES EN
-https://waldmtr3s.github.io/mpago.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTk5ODg0OTU5M15BMl5BanBnXkFtZTgwMDQ3MDY3NjM@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2018",Aquaman (2018)
-https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/DC/Aquaman%2520-%25202018.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDkzNmRhNTMtZDI4NC00Zjg1LTgxM2QtMjYxZDQ3OWJlMDRlXkEyXkFqcGdeQXVyNTU5MjkzMTU@._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="2018",Deadpoool 2 (2018)
-https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/Marvel/-%2520%2520%2520%2520Deadpoool%25202.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg1MTY2MjYzNV5BMl5BanBnXkFtZTgwMTc4NTMwNDI@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2018",Pantera Negra (2018)
-https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/Marvel/-%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520Pantera%2520Negra%2520-%25202018.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjcyYTk0N2YtMzc4ZC00Y2E0LWFkNDgtNjE1MzZmMGE1YjY1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2018",Ant-Man y La Avispa (2018)
-https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/Marvel/-%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520Ant-Man%2520Y%2520La%2520Avispa%2520-%25202018.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTA2NDc3Njg5NDVeQTJeQWpwZ15BbWU4MDc1NDcxNTUz._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2018",Bohemian Rhapsody (2018)
-https://mataocio-cdn5.mataocio-cdn5.workers.dev/Bohemian%2520rhapsody.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGM3MzQwYzItNDA1Ny00MzIyLTg5Y2QtYTAwMzNmMDU2ZDgxXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_QL75_UX100_CR0,5,100,148_.jpg" group-title="2018",Rascacielos: rescate en las alturas (2018)
-http://tux-vod.dynu.com/peliculas/720/el%20rascacielos.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDA1NjA3ODU3OV5BMl5BanBnXkFtZTgwOTg3MTIwNTM@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2018",Proyecto Rampage (2018)
-http://tux-vod.dynu.com/peliculas/720/rampage.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzY1MDA2OTQ0N15BMl5BanBnXkFtZTgwMTkzNjU2NTM@._V1_QL75_UX100_CR0,5,100,148_.jpg" group-title="2018",Maquinas Mortales (2018) HD
-http://tux-vod.dynu.com/peliculas/720/mortal%20engines%202018.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjYzYWRlZmEtNTQzZC00ZmE2LThjNzAtMDY3ZmNmYmJiMjBlXkEyXkFqcGdeQXVyODAzODU1NDQ@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2018",El Gran Terremoto (2018)
-http://movie.lerload.xyz/storage/streamable/videos/wNFTtd6nwJzquhqgINWCSOx5opcbSyjYAvT6I5Lz_0_350.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYyNzEyNDAzOV5BMl5BanBnXkFtZTgwNTk3NDczNjM@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2018",Ralph rompe internet (2018)
-http://tux-vod.dynu.com/peliculas/720/wifi%20ralph.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI4MjQ3MjI5MV5BMl5BanBnXkFtZTgwNjczMDE4NTM@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2018",Jhonny English 3.0 (2018)
 http://archive.org/download/0231564654SRREGIO/0231564654SRREGIO.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTAwOTIxMDA0MjZeQTJeQWpwZ15BbWU4MDg1MjgzNzQz._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2018",The Cloverfield Paradox (2018)
 http://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
-#EXTINF:-1 group-title="2018", DONACIONES EN
-https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 group-title="2017", DONACIONES EN
-https://waldmtr3s.github.io/mpago.mp4
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjMyNDkzMzI1OF5BMl5BanBnXkFtZTgwODcxODg5MjI@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2017",Thor Ragnarok (2017)
-https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/Marvel/-%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520Thor%2520Ragnarok%2520-%25202017.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk4ODQ1MzgzNl5BMl5BanBnXkFtZTgwMTMyMzM4MTI@._V1_QL75_UX100_CR0,2,100,148_.jpg" group-title="2017",Spider-Man: Homecoming (2017)
-https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/Marvel/-%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520Spider%2520Man%2520Homecoming%2520-%25202017.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjM0NTc0NzItM2FlYS00YzEwLWE0YmUtNTA2ZWIzODc2OTgxXkEyXkFqcGdeQXVyNTgwNzIyNzg@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2017",Guardianes De La Galaxia Vol 2 (2017)
-https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/Marvel/-%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520Guardianes%2520De%2520La%2520Galaxia%2520Vol%25202%2520-%25202017.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzc5MTU4N2EtYTkyMi00NjdhLTg3NWEtMTY4OTEyMzJhZTAzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="2017",Logan (2017)
-http://201.172.61.203:88/Peliculas/jul%20agos/Ver%20Logan%20(2017).mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2YwOWM4ODgtZTMzMi00ZmFmLTk5NTEtNmY4ZDcwNzQxNDhjXkEyXkFqcGdeQXVyNTI0NzAyNjY@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2017",Transformers: El ultimo caballero (2017)
-https://mataocio-cdn5.mataocio-cdn5.workers.dev/Otras/Transformers%2520-%2520The%2520last%2520knight.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjAyNjY0MjU1NF5BMl5BanBnXkFtZTgwMjAwNDMwNDI@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2017",24 horas para vivir (2017)
-http://tux-vod.dynu.com:80/peliculas/720/24%20hours%20to%20live.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODQ0NDhjYWItYTMxZi00NTk2LWIzNDEtOWZiYWYxZjc2MTgxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2017",Jumanji: Bienvenidos a la Jungla (2017)
-http://201.172.61.81:85/peliculas/octubre/*JUMANJIWELCOMETOTHEJUNGLE1.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODQ0NDhjYWItYTMxZi00NTk2LWIzNDEtOWZiYWYxZjc2MTgxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2017",Jumanji: Bienvenidos a la Jungla (2017) HD
-http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Jumanji-%20Bienvenidos%20a%20la%20jungla%20_%20En%20la%20selva.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTgyODc5MGMtYTI4MS00ZTM2LTk0ODYtODQ2ZjIxNTM5MDBmXkEyXkFqcGdeQXVyNDUxNjc5NjY@._V1_QL75_UY148_CR2,0,100,148_.jpg" group-title="2017",Dragonheart 4: Corazón de fuego (2017)
-http://201.172.61.81:85/peliculas/octubre/*Dragonheart%204%20Coraz%c3%b3n%20de%20Fuego%20(2017).mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzFmOGFjMjEtNDI4Mi00YTNiLThiNzQtMDU2MWMyOGUxZGY5XkEyXkFqcGdeQXVyMzU5OTE2NTI@._V1_QL75_UY148_CR5,0,100,148_.jpg" group-title="2017",Burn out (2017)
-http://tux-vod.dynu.com/peliculas/720/burn%20out%202017.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzc1NjliZDktZjQ0ZS00OTY5LWJkYmItODU0MmQzZGYxNmQ3XkEyXkFqcGdeQXVyNTU1Nzc3NjA@._V1_QL75_UY148_CR3,0,100,148_.jpg" group-title="2017",Godzilla: Planeta de monstruos (2017)
 https://archive.org/download/gopla-72p/Godzilla1.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjMxODI2NDM5Nl5BMl5BanBnXkFtZTgwNjgzOTk1MTI@._V1_QL75_UX100_CR0,5,100,148_.jpg" group-title="2017",Rápidos y furiosos 8 (2017)
-http://tux-vod.dynu.com:80/peliculas/720/the%20fate%20of%20the%20furious.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY3MjU0NDA0OF5BMl5BanBnXkFtZTgwNTc0MTU3OTE@._V1_QL75_UY148_CR2,0,100,148_.jpg" group-title="2017",Angry Birds (2017)
 http://cecegeek@goo.gl/3KGMLf
-#EXTINF:-1 group-title="2017", DONACIONES EN
-https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 group-title="2016", DONACIONES EN
-https://waldmtr3s.github.io/mpago.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2016",Batman vs Superman: El origen de la Justicia (2016)
-https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/DC/Batman%2520v%2520Superman%2520Dawn%2520of%2520Justice%2520-%25202016.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjU1ODM1MzYxN15BMl5BanBnXkFtZTgwOTA4NDE2ODE@._V1_QL75_UY148_CR0,0,100,148_.jpg" group-title="2016",X-Men: Apocalipsis (2016)
-https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/Marvel/-%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520X%2520Men%2520Apocalipsis%2520-%25202016.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2016",Doctor Strange (2016)
-https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/Marvel/-%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520Doctor%2520Strange%2520-%25202016.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQ0MTgyNjAxMV5BMl5BanBnXkFtZTgwNjUzMDkyODE@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2016",Capitan America: Civil War (2016)
-https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/Marvel/-%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520America%2520Civil%2520War%2520-%25202016.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjEzNzE5MDAxMl5BMl5BanBnXkFtZTgwNjcxOTE2OTE@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2016",No manches Frida (2016)
-http://201.172.61.203:88/Peliculas/mkv/Ver%20No%20manches%20Frida%20(2016)%20Online%20Latino%20HD%20-%20Pelisplus.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQ2NzYxMDQ2OV5BMl5BanBnXkFtZTgwMDk2MzczOTE@._V1_QL75_UX100_CR0,4,100,148_.jpg" group-title="2016",Ben-Hur (2016)
-http://201.172.61.203:88/Peliculas/Febrero/Ben-Hur%202016%20HD%20%5b1080p%5d%20Latino.mkv%20-%20Google%20Drive.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzE5MjY1ZDgtMTkyNC00MTMyLThhMjAtZGI5OTE1NzFlZGJjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="2016",Deadpool (2016)
 http://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
 
-#EXTINF:-1 group-title="2016", DONACIONES EN
-https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 group-title="2015", DONACIONES EN
-https://waldmtr3s.github.io/mpago.mp4
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM2NTQ5Mzc2M15BMl5BanBnXkFtZTgwNTcxMDI2NTE@._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="2015",Ant-Man (2015)
-https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/Marvel/-%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520Ant-Man%2520-%25202015.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE3MDU2NzQyMl5BMl5BanBnXkFtZTgwMzQxMDQ3NTE@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2015",Maze Runner: Prueba De Fuego (2015)
-http://201.172.61.203:88/Peliculas/Danna/Maze%20Runner-%20Prueba%20De%20Fuego%20(2015).mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUxMjQ2NjI4OV5BMl5BanBnXkFtZTgwODc2NjUwNDE@._V1_QL75_UX100_CR0,4,100,148_.jpg" group-title="2015",Proyecto Almanac (2015)
-http://201.172.61.203:88/Peliculas/Marzo%20Abril/Proyecto.Almanac.2015.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA5NjM3NTk1M15BMl5BanBnXkFtZTgwMzg1MzU2NjE@._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="2015",Sicario (2015) HD
-http://201.172.61.81:85/peliculas/4K/*Sicario.2015.4K.HDR.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGM0NzE2YjgtZGQ4YS00MmY3LTg4ZDMtYjUwNTNiNTJhNTQ5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UY148_CR2,0,100,148_.jpg" group-title="2015",Armageddon (2015)
-http://tux-vod.dynu.com/peliculas/720/armageddon.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUyNTI4NTIwNl5BMl5BanBnXkFtZTgwMjQ4MTI0NDE@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2015",Chappie (2015)
-http://tux-vod.dynu.com/peliculas/720/chappie.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWQ1MDE1NzgtNTQ4OC00ZjliLTllZDAtN2IyOTVmMTc5YjUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2015",Agente 007: Spectre (2015)
 http://goo.gl/3KGMLf
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="2015",Intensamente (2015)
-http://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
 
-#EXTINF:-1 group-title="2015", DONACIONES EN
-https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 group-title="PELICULAS", DONACIONES EN
-https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzRjMjg3ZTMtMTk4Yy00YjRhLWI4ZWQtM2JhYjZlNTViNWYzXkEyXkFqcGdeQXVyMzIwNDY4NDI@._V1_QL75_UY148_CR2,0,100,148_.jpg" group-title="PELICULAS",Evangelion 1.0 You Are Not Alone (2007)
-https://archive.org/download/evangelion-3.0-1.0-thrice-upon-a-time/Rebuild%20of%20Evangelion/Evangelion%201.0%20You%20Are%20%28Not%29%20Alone.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDQyMTM0NGQtNmIwNy00ZDRlLWFlZTItY2UyNmNkNDI2MGVlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="PELICULAS",Evangelion 2.0 You Can Not Advance (2009)
-https://archive.org/download/3.0-1.0/Evangelion%202.0%20You%20Can%20%28Not%29%20Advance.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjNkNmFmNGYtNGRlNC00MmVjLTliYzYtMGQ3ODExMWU4OTQ4XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_QL75_UY148_CR3,0,100,148_.jpg" group-title="PELICULAS",Evangelion 3.0 You Can Not Redo (2012)
-https://archive.org/download/3.0-1.0/Evangelion%203.0%20You%20Can%20%28Not%29%20Redo.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjJhMThkNTQtNjkxNy00MDdjLTg4MWQtMTI2MmQ3MDVmODUzXkEyXkFqcGdeQXVyMTAwOTA3NzY3._V1_QL75_UY148_CR3,0,100,148_.jpg" group-title="PELICULAS",The End of Evangelion (1997)
-https://archive.org/download/the-end-of-evangelion_202108/Neon%20Genesis%20Evangelion/The%20End%20of%20Evangelion.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjJhMThkNTQtNjkxNy00MDdjLTg4MWQtMTI2MmQ3MDVmODUzXkEyXkFqcGdeQXVyMTAwOTA3NzY3._V1_QL75_UY148_CR3,0,100,148_.jpg" group-title="PELICULAS",THE END OF EVANGELION (1997)
-http://archive.org/download/7_20190824/1.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzY2ZDQ2MTctYzlhOC00MWJhLTgxMmItMDgzNDQwMDdhOWI2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="PELICULAS",Superman Regresa (2006)
-https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/DC/Superman%2520Regresa%2520-%25202006.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGZmYzVkMmItM2NiOS00MDI3LWI4ZWQtMTg0YWZkODRkMmViXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="PELICULAS",Batman Regresa (1992)
-https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/DC/Batman%2520Returns%2520-%25201992.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDdjYmFiYWEtYzBhZS00YTZkLWFlODgtY2I5MDE0NzZmMDljXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UY148_CR0,0,100,148_.jpg" group-title="PELICULAS",Batman Forever (1995)
-https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/DC/Batman%2520Forever%2520-%25201995.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGQ5YTM1NmMtYmIxYy00N2VmLWJhZTYtN2EwYTY3MWFhOTczXkEyXkFqcGdeQXVyNTA2NTI0MTY@._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="PELICULAS",Batman y Robin (1997)
-https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/DC/Batman%2520%26%2520Robin%2520-%25201997.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UY148_CR0,0,100,148_.jpg" group-title="PELICULAS",Batman Inicia (2005)
-https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/DC/Batman%2520Inicia%2520-%25202005.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="PELICULAS",Batman: El Caballero de la noche (2008)
-https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/DC/Batman%2520el%2520Caballero%2520de%2520la%2520noche%2520-%25202008.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="PELICULAS",Batman: El Caballero de la noche asciende (2012)
-https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/DC/Batman%2520el%2520Caballero%2520de%2520la%2520Noche%2520Asciende%2520-%25202012.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDBhNDJiMWEtOTg4Yi00NTYzLWEzOGMtMjNmNjAxNTBlMzY3XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_QL75_UY148_CR1,0,100,148_.jpg" group-title="PELICULAS",X-Men 3: La batalla final (2006)
-https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/Marvel/-%2520%2520%2520%2520X%2520Men%2520III%2520La%2520batalla%2520final%2520(2006).mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTAwMjU5OTgxNjZeQTJeQWpwZ15BbWU4MDUxNDYxODEx._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="PELICULAS",Guardianes de la galaxia (2014)
-https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/Marvel/-%2520%2520%2520%2520Guardianes%2520de%2520la%2520galaxia%2520-%25202014.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYzOTc2NzU3N15BMl5BanBnXkFtZTcwNjY3MDE3NQ@@._V1_QL75_UX100_CR0,4,100,148_.jpg" group-title="PELICULAS",Capitan America: El primer vengador (2011)
-https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/Marvel/-%2520%2520%2520%2520Capitan%2520america%2520-%2520El%2520primer%2520vengador%2520-%25202011.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzA2NDkwODAwM15BMl5BanBnXkFtZTgwODk5MTgzMTE@._V1_QL75_UY148_CR1,0,100,148_.jpg" group-title="PELICULAS",Capitan America: El soldado de invierno (2014)
-https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/Marvel/-%2520%2520%2520%2520Capitan%2520america%2520-%2520El%2520soldado%2520de%2520invierno%2520-%25202014.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzg1MDQxMTQ2OF5BMl5BanBnXkFtZTcwMTk3MjAzOQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="PELICULAS",Wolverine: Inmortal (2013)
-https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/Marvel/-%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520Wolverine%2520-%2520Inmortal%2520-%25202013.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGE4NzU1YTAtNzA3Mi00ZTA2LTg2YmYtMDJmMThiMjlkYjg2XkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="PELICULAS",Thor (2011)
-https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/Marvel/-%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520Thor%2520-%25202011.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQyNzAwOTUxOF5BMl5BanBnXkFtZTcwMTE0OTc5OQ@@._V1_QL75_UY148_CR2,0,100,148_.jpg" group-title="PELICULAS",Thor: El Mundo Oscuro (2013)
-https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/Marvel/-%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520Thor%2520El%2520Mundo%2520Oscuro%2520-%25202013.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDEyN2NhMjgtMjdhNi00MmNlLWE5YTgtZGE4MzNjMTRlMGEwXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_QL75_UY148_CR0,0,100,148_.jpg" group-title="PELICULAS",El Hombre Araña (2002)
-https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/Marvel/-%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520El%2520Hombre%2520Ara%C3%B1a%2520-%25202002.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzY2ODk4NmUtOTVmNi00ZTdkLTlmOWYtMmE2OWVhNTU2OTVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UY148_CR4,0,100,148_.jpg" group-title="PELICULAS",El Hombre Araña 2 (2004)
-https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/Marvel/-%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520El%2520Hombre%2520Ara%C3%B1a%25202%2520-%25202004.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTk3MDljOWQtNGI2My00OTEzLTlhYjQtOTQ4ODM2MzUwY2IwXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="PELICULAS",El Hombre Araña 3 (2007)
-https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/Marvel/-%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520El%2520Hombre%2520Ara%C3%B1a%25203%2520-%25202007.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjMyOTM4MDMxNV5BMl5BanBnXkFtZTcwNjIyNzExOA@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="PELICULAS",El Sorprendente Hombre Araña (2012)
-https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/Marvel/-%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520El%2520Sorprendente%2520Hombre%2520Ara%C3%B1a%2520-%25202012.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTA5NDYxNTg0OV5BMl5BanBnXkFtZTgwODE5NzU1MTE@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="PELICULAS",El Sorprendente Hombre Araña: El Poder de Electro (2014)
-https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/Marvel/-%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520El%2520Sorprendente%2520Hombre%2520Ara%C3%B1a%25202%2520El%2520Poder%2520de%2520Electro%2520-%25202014.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzQwZDg1MGEtN2E5My00ZDJlLWI4MzItM2U2MjJhYzlkNmEzXkEyXkFqcGdeQXVyNDAxNjkxNjQ@._V1_QL75_UY148_CR1,0,100,148_.jpg" group-title="PELICULAS",Hulk (2003)
-https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/Marvel/-%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520Hulk%2520-%25202003.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUyNzk3MjA1OF5BMl5BanBnXkFtZTcwMTE1Njg2MQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="PELICULAS",El Increible Hulk (2008)
-https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/Marvel/-%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520El%2520Incre%C3%ADble%2520Hulk%2520-%25202008.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDgyZTI2YmYtZmI4ZC00MzE0LWIxZWYtMWRlZWYxNjliNTJjXkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_QL75_UY148_CR5,0,100,148_.jpg" group-title="PELICULAS",Space Jam (1996)
-http://201.172.61.203:88/Peliculas/jul%20agos/Ver%20Space%20Jam%20(1996)%20Online%20Latino%20HD%20-%20Pelisplus.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM1NTU0NTE4MV5BMl5BanBnXkFtZTcwMTQ0MjEzMw@@._V1_QL75_UY148_CR0,0,100,148_.jpg" group-title="PELICULAS",El Expreso Polar (2012)
-https://mataocio-cdn5.mataocio-cdn5.workers.dev/Otras%25202/El%2520Expreso%2520Polar.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDY1N2IyYWMtZTY4OS00OGM1LTkxNmUtOTQzYmM5MmI2YmVmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="PELICULAS",La pasion de Cristo (2004)
-http://201.172.61.203:88/Peliculas/Danna/La%20pasi%c3%b3n%20de%20Cristo%20(2004).mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA1OTkyMzUyN15BMl5BanBnXkFtZTgwNjI0MTUzMjE@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="PELICULAS",Falcon Rising: Venganza fatal (2014)
-http://201.172.61.203:88/Peliculas/Danna/Falcon.Rising.2014.1080p.BDrip.EspaolIngls.bychalo.1.WwW.PeliculasGoogleDrive.info.mkv%20-%20Google%20Drive.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ5NjQ0NDI3NF5BMl5BanBnXkFtZTcwNDI0MjEzMw@@._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="PELICULAS",En busca de la felicidad (2006)
-http://201.172.61.203:88/Peliculas/Danna/En%20busca%20de%20la%20felicidad%20(2006).mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY0MTc3MzMzNV5BMl5BanBnXkFtZTcwNDE4MjE0NA@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="PELICULAS",El Codigo fuente (2011)
-http://201.172.61.203:88/Peliculas/Danna/C%c3%b3digo%20fuente%20(2011).mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTcwMzY2NDE0NF5BMl5BanBnXkFtZTYwNjg2Njc2._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="PELICULAS",Amor ciego (2001)
-http://201.172.61.203:88/Peliculas/Danna/Amor%20ciego%20(2001).mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA2NTI1Mzg3N15BMl5BanBnXkFtZTcwMjYwNjAzMg@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="PELICULAS",17 otra vez (2009)
-http://201.172.61.203:88/Peliculas/Danna/17%20otra%20vez%20(2009.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWMxYTYzYWQtNGZmNy00MTg5LTk1N2MtNzQ5NjQxYjQ5NTJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="PELICULAS",Viernes 13 parte 1 (1980)
-http://201.172.61.203:88/Peliculas/Marzo%20Abril/Saga%20Viernes%2013/Viernes%2013%20Parte%201%20(1980)%20BRRip%20Trial%20Latino%201080p.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzFkYTYyMmYtYWM2Mi00ZmM0LTg0MGUtYzA0YmExYzc2NjQ4XkEyXkFqcGdeQXVyMjMwNDgzNjc@._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="PELICULAS",Viernes 13 parte 2 (1981)
-http://201.172.61.203:88/Peliculas/Marzo%20Abril/Saga%20Viernes%2013/Viernes%2013%20Parte%202%20(1981)%20BRRip%20Trial%20Latino%201080p.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjRiMTdlY2QtZGE3YS00YjQzLTk5MmUtNjVjMjUzYWRiMWNhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="PELICULAS",Viernes 13 parte 3 (1982)
-http://201.172.61.203:88/Peliculas/Marzo%20Abril/Saga%20Viernes%2013/Viernes%2013%20Parte%203%20(1982)%20BRRip%20Trial%20Latino%201080p.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWE5YzI0YWItMzkyMi00ODgzLThjNTAtYzVlMmZjZDA2ZWFjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX100_CR0,4,100,148_.jpg" group-title="PELICULAS",Viernes 13 parte 4 (1984)
-http://201.172.61.203:88/Peliculas/Marzo%20Abril/Saga%20Viernes%2013/Viernes%2013%20Parte%204%20El%20Capitulo%20Final%20(1984)%20BRRip%20Trial%20Latino%201080p.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNkNzEwOWYtMjY4Ni00YjIwLTgyZGQtMmYwNmVmYWFlZDJhXkEyXkFqcGdeQXVyNDgxODg1MzU@._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="PELICULAS",Viernes 13 parte 5 (1985)
-http://201.172.61.203:88/Peliculas/Marzo%20Abril/Saga%20Viernes%2013/Viernes%2013%20Parte%205%20Un%20Nuevo%20Comienzo%20(1985)%20BRRip%20Trial%20Latino%201080p.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjM3ZjhjNzgtMjg2OC00MmI5LWIyZGItOTUxZTVlZjdjNTNkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX100_CR0,4,100,148_.jpg" group-title="PELICULAS",Viernes 13 parte 6 (1986)
-http://201.172.61.203:88/Peliculas/Marzo%20Abril/Saga%20Viernes%2013/Viernes%2013%20Parte%206%20Jason%20Vive%20(1986)%20BRRip%20Trial%20Latino%201080p.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzRhMzA5ZGItODMxMy00YTRiLTg3MjUtMmRjMzliZDkxOWI2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="PELICULAS",Viernes 13 parte 7 (1988)
-http://201.172.61.203:88/Peliculas/Marzo%20Abril/Saga%20Viernes%2013/Viernes%2013%20Parte%207%20La%20Nueva%20Sangre%20(1988)%20BRRip%20Trial%20Latino%201080p.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDUyMGIxZDctNDVlMy00ZmVlLWIzZGUtMzQ2NWVhNTgwMjIzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="PELICULAS",Viernes 13 parte 8 (1989)
-http://201.172.61.203:88/Peliculas/Marzo%20Abril/Saga%20Viernes%2013/Viernes%2013%20Parte%208%20Jason%20Toma%20Manhattan%20(1989)%20BRRip%20Trial%20Latino%201080p.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGUxZGViMDktOWM5OS00MTlmLTkzZTYtZWJmZGEzNjg1M2ZlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="PELICULAS",Viernes 13 parte 9 (1993)
-http://201.172.61.203:88/Peliculas/Marzo%20Abril/Saga%20Viernes%2013/Viernes%2013%20Parte%209%20Jason%20Va%20Al%20Infierno%20(1993)%20BRRip%20Trial%20Latino%201080p.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ5ODI5NTMzN15BMl5BanBnXkFtZTcwNzY4MTYxMg@@._V1_QL75_UY148_CR0,0,100,148_.jpg" group-title="PELICULAS",Viernes 13 parte 11 (2009)
-http://201.172.61.203:88/Peliculas/Marzo%20Abril/Saga%20Viernes%2013/Viernes%2013%20Parte%2011%20(2009)%20BRRip%20Trial%20Latino%201080p.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGUyZDUxZjEtMmIzMC00MzlmLTg4MGItZWJmMzBhZjE0Mjc1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="PELICULAS",La red social (2010)
-http://201.172.61.203:88/Peliculas/Marzo%20Abril/Ver%20La%20red%20social%20(2010).mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="PELICULAS",Inception (2010)
-http://vod.tuxchannel.tv:80/peliculas/720/el%20origen.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWVlYzU2ZjQtZmNkMi00OTc3LTkwZmYtZDVjNmY4OWFmZGJlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX100_CR0,4,100,148_.jpg" group-title="PELICULAS",Robocop (1987)
-http://201.172.61.203:88/Peliculas/Marzo%20Abril/Robocop.1987.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGQ5ZjI3YzYtNjM2Ni00MTFjLWEyOWMtOTEwNjI5MThlZTlmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX100_CR0,5,100,148_.jpg" group-title="PELICULAS",Robocop 2 (1990)
-http://201.172.61.203:88/Peliculas/Marzo%20Abril/Robocop.2.1990.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzdiMTkwYWUtM2RlYi00NThlLWI5OWYtY2Y3ZjY1MDg5OTMyXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_QL75_UY148_CR0,0,100,148_.jpg" group-title="PELICULAS",Robocop 3 (1993)
-http://201.172.61.203:88/Peliculas/Marzo%20Abril/Robocop.3.1993.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjAyOTUzMTcxN15BMl5BanBnXkFtZTgwMjkyOTc1MDE@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="PELICULAS",Robocop (2014)
-http://201.172.61.203:88/Peliculas/Febrero/Robocop4.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY1MDU1MzAwOV5BMl5BanBnXkFtZTYwMDkzNzY3._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="PELICULAS",Premonicion (2007)
-http://201.172.61.203:88/Peliculas/Marzo%20Abril/Premonicion.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWNlN2RmZDktNzllNC00NDVlLTllMzgtZGQ1YmRmZThmZjZmXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="PELICULAS",Te amare por siempre (2009)
-http://201.172.61.203:88/Peliculas/Marzo%20Abril/Msalldeltiempo.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM4YTViNGMtYTYyOS00MTViLWEyYTgtNGM0OTIwMWRmYzdhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="PELICULAS",La maquina del tiempo (2002)
-http://201.172.61.203:88/Peliculas/Marzo%20Abril/La%20m%c3%a1quina%20del%20tiempo%20(2002).mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYxMTgxNDI3MV5BMl5BanBnXkFtZTcwMzIxMTIzMw@@._V1_QL75_UY148_CR0,0,100,148_.jpg" group-title="PELICULAS",La Casa Del Lago (2006)
-http://201.172.61.203:88/Peliculas/Marzo%20Abril/La%20Casa%20Del%20Lago%20(2006).mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjEwOTkyOTI3M15BMl5BanBnXkFtZTcwNTQxMjU1MQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="PELICULAS",Jumper (2008)
-http://201.172.61.203:88/Peliculas/Marzo%20Abril/Jumper.200.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM5NTQ3MTYxN15BMl5BanBnXkFtZTcwODE2Nzk3OQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="PELICULAS",Jobs (2013)
-http://201.172.61.203:88/Peliculas/Marzo%20Abril/Jobs%20(2013).mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA3NzI1ODc1MV5BMl5BanBnXkFtZTcwMzI5NjQwNg@@._V1_QL75_UY148_CR3,0,100,148_.jpg" group-title="PELICULAS",El precio del mañana (2011)
-http://201.172.61.203:88/Peliculas/Marzo%20Abril/InTime.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmE4ZjI3YzctNjM0YS00MjBlLWFmYjItNDRiNTk0ZmRkYjVjXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="PELICULAS",Ghost: La sombra del amor (1990)
-http://201.172.61.203:88/Peliculas/Marzo%20Abril/Ghost%20la%20sombra%20del%20amor%20(1990).mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzEwNTAwNjEwMV5BMl5BanBnXkFtZTYwMzgzMjA3._V1_QL75_UY148_CR0,0,100,148_.jpg" group-title="PELICULAS",Deja Vu (2006)
-http://201.172.61.203:88/Peliculas/Marzo%20Abril/D%c3%a9j%c3%a0%20Vu.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg0NjEwNjUxM15BMl5BanBnXkFtZTcwMzk0MjQ5Mg@@._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="PELICULAS",Sherlock Holmes (2009)
-http://201.172.61.203:88/Peliculas/mkv/Ver%20Sherlock%20Holmes%20(2009.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQwMzQ5Njk1MF5BMl5BanBnXkFtZTcwNjIxNzIxNw@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="PELICULAS",Sherlock Holmes: Juego de sombras (2011)
-http://201.172.61.203:88/Peliculas/mkv/Ver%20Sherlock%20Holmes-%20Juego%20de%20sombras%20(2011).mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc3ODk0MTY0N15BMl5BanBnXkFtZTgwOTU2MTEzMDE@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="PELICULAS",El consejero (2013)
-http://201.172.61.203:88/Peliculas/Febrero/Ver%20El%20consejero%20(2013)%20Online%20Latino%20HD%20-%20Pelisplus.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzU1YmJjMGEtMjY4Yy00MTFlLWE3NTUtNzI3YjkwZTMxZjZmXkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="PELICULAS",Desafío total (1990)
-http://201.172.61.203:88/Peliculas/Febrero/Total.Recall.1990.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGU3N2MzOGYtODhmMy00Y2IzLWI3YmEtYzNiMTU1ZjY0ZDNkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UY148_CR0,0,100,148_.jpg" group-title="PELICULAS",Querida Agrande Al Bebe (1992)
-http://201.172.61.203:88/Peliculas/Febrero/Querida,.Agrande.Al.Bebe.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjk2ODQzNDYxNV5BMl5BanBnXkFtZTgwMTcyNDg4NjE@._V1_QL75_UX100_CR0,2,100,148_.jpg" group-title="PELICULAS",Mujer Bonita (1990)
-http://201.172.61.203:88/Peliculas/Febrero/Pretty.Woman.1990.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODFkMjE5YzAtMDFkOC00ZDNhLTkwNmQtODk1Y2VhNThlNWJhXkEyXkFqcGdeQXVyNzY1NDgwNjQ@._V1_QL75_UX100_CR0,4,100,148_.jpg" group-title="PELICULAS",Aladdin y el rey de los ladrones (1996)
-http://201.172.61.203:88/Peliculas/Febrero/Aladd%c3%adn%20y%20el%20rey%20de%20los%20ladrones%20(1996).mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU1NDEyMjktODgyOC00NzYzLTk4ZjctYTc4NWQ4NjA2MGM4XkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_QL75_UY148_CR1,0,100,148_.jpg" group-title="PELICULAS",Corazon de Leon (1990)
-http://201.172.61.203:88/Peliculas/Febrero/1990%20Corazon%20de%20Leon.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjQ1NzRhYjYtMWY3My00ODA0LTk5ZDctYjQ4YjE0M2RhMGNiXkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="PELICULAS",Karate Kid (2010)
-http://201.172.61.81:85/peliculas/octubre/*karate%20kid%202010.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA2MDQ2ODM3MV5BMl5BanBnXkFtZTcwNDUzMTQ3OQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="PELICULAS",Chicas armadas y peligrosas (2013)
-http://tux-vod.dynu.com:80/peliculas/720/the%20heat.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTQ5MTgzNDg4OF5BMl5BanBnXkFtZTcwMjAyODEzOQ@@._V1_QL75_UX100_CR0,6,100,148_.jpg" group-title="PELICULAS",Armados y peligrosos (2013)
-http://tux-vod.dynu.com:80/peliculas/720/2%20guns.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM4NzQ0OTYyOF5BMl5BanBnXkFtZTcwMDkyNjQyMg@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="PELICULAS",Búsqueda implacable 1 (2008)
-http://tux-vod.dynu.com:80/peliculas/720/taken.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkwNTQ0ODExOV5BMl5BanBnXkFtZTcwNjU3NDQwOA@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="PELICULAS",Búsqueda implacable 2 (2012)
-http://tux-vod.dynu.com:80/peliculas/720/taken%202.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjM5MDU3NTY0M15BMl5BanBnXkFtZTgwOTk2ODU2MzE@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="PELICULAS",Búsqueda implacable 3 (2014)
-http://tux-vod.dynu.com:80/peliculas/720/taken%203.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDk0MmYyMWMtOWVhNS00ZTM4LWI0NGEtMTMxYWFjYjVhNWVlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX100_CR0,4,100,148_.jpg" group-title="PELICULAS",Cyborg (1989)
-http://tux-vod.dynu.com:80/peliculas/720/cyborg.mkv
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkwNDI5NDcyMV5BMl5BanBnXkFtZTcwMjg5OTcyMQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="PELICULAS",Herbie (2005)
-http://193.34.144.178/Bryan/Peliculas/Herbie%20Fully%20Loaded%20LAT.mp4
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODkyNDQzMzUzOF5BMl5BanBnXkFtZTcwODYyMDEyOA@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="PELICULAS",Juez Dredd (2012)
-http://tux-vod.dynu.com/peliculas/720/dredd.mkv
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDYyNzYxNjYtNmYzMC00MTE0LWIwMmYtNTAyZDBjYTIxMTRhXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="PELICULAS",La estafa maestra (2003)
-http://201.172.61.81:85/peliculas/octubre/La%20Estafa%20Maestra.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTEwODkxNzE4NzVeQTJeQWpwZ15BbWU3MDY5NDYwMzQ@._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="PELICULAS",El Monje: A prueba de balas (2003)
-http://201.172.61.81:85/peliculas/octubre/El.Guardian.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzI2NGUzYzAtY2Y1MS00NzhjLWFiYzItODgwM2RlN2M5ZjA4XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UY148_CR0,0,100,148_.jpg" group-title="PELICULAS",DragonHeart (1996)
-http://201.172.61.81:85/peliculas/octubre/*DragonHeart%20(1996).mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="PELICULAS",Atrapame si puedes (2002)
-http://201.172.61.81:85/peliculas/octubre/*Atr%c3%a1pame%20si%20puedes%20(2002).mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM5NTkzNzk0NF5BMl5BanBnXkFtZTcwMTQwNjE5OQ@@._V1_QL75_UY148_CR0,0,100,148_.jpg" group-title="PELICULAS",Getaway: Tiempo en contra (2013)
-http://201.172.61.81:85/peliculas/octubre/(Getaway).mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTEzOTNhODMtOTA5NC00YWM2LWJmYTEtOTAyNDVjZWQ3OTUzXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="PELICULAS",Señalado por la muerte (1990)
-http://201.172.61.81:85/peliculas/4K/*se%c3%b1alado%20por%20la%20muerte%201990.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ2ODFlMDAtNzdhOC00ZDYzLWE3YTMtNDU4ZGFmZmJmYTczXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX100_CR0,4,100,148_.jpg" group-title="PELICULAS",E.T.: el extraterrestre (1982)
-http://tux-vod.dynu.com/peliculas/720/e.t.%20the%20extra-terrestrial.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2YwNWExYjItODZmOC00MTRjLWFlYmEtODFmNGI5M2E5NzYxXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX100_CR0,4,100,148_.jpg" group-title="PELICULAS",Historia sin fin (1984)
-http://tux-vod.dynu.com/peliculas/720/the%20neverending%20story.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDEyMmE1ZjUtMjU3Yi00NzNkLWFiYzYtOGFlYjkwMWEwNTU3XkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_QL75_UY148_CR3,0,100,148_.jpg" group-title="PELICULAS",Amar te duele (2002)
-http://tux-vod.dynu.com/peliculas/720/amar%20te%20duele%202002.mkv
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzEwMGY2OTItYTljMC00NTVkLWE1NGUtNGQ2ZmY3ODlkMmYzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_QL75_UY148_CR2,0,100,148_.jpg" group-title="PELICULAS",Dante's Inferno (2010)
-http://tux-vod.dynu.com/peliculas/720/dantes%20inferno.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZThhYTlhMDUtMDhjZi00MTljLTkwMDYtOGU3ZjVlMWE4NDk4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UY148_CR3,0,100,148_.jpg" group-title="PELICULAS",Gasparin (1995)
-http://tux-vod.dynu.com/peliculas/720/casper.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQ5MzFjYWMtMTMwNC00ZGU5LWI3YTQtYzhkMGExNGFlY2Q0XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="PELICULAS",Sector 9 (2009)
-http://tux-vod.dynu.com/peliculas/720/distrit%209.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODRmY2NhNDItOWViNi00OTIyLTk3YjYtYzY0YTFlMDg1YzQ0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UY148_CR1,0,100,148_.jpg" group-title="PELICULAS",Van Helsing: el cazador de monstruos (2004)
-http://tux-vod.dynu.com/peliculas/720/van%20helsing.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2Y5ZTU4YjctMDRmMC00MTg4LWE1M2MtMjk4MzVmOTE4YjkzXkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="PELICULAS",Naufrago (2000)
-http://tux-vod.dynu.com/peliculas/720/cast%20away.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY3NzIyNTA2NV5BMl5BanBnXkFtZTcwNzE2NjI4Nw@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="PELICULAS",Prometheus (2012)
-http://tux-vod.dynu.com/peliculas/720/prometheus.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY3NzIyNTA2NV5BMl5BanBnXkFtZTcwNzE2NjI4Nw@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="PELICULAS",Prometeus (2012)
 http://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg5NTA3NTg4NF5BMl5BanBnXkFtZTcwNTA0NDYzOA@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="PELICULAS",Looper: asesinos del futuro (2012)
-http://tux-vod.dynu.com/peliculas/720/looper.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGQwZjg5YmYtY2VkNC00NzliLTljYTctNzI5NmU3MjE2ODQzXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="PELICULAS",Que pasó ayer (2009)
-http://vod.tuxchannel.tv/peliculas/720/the%20hangover.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM2MTM4MzY2OV5BMl5BanBnXkFtZTcwNjQ3NzI4NA@@._V1_QL75_UY148_CR0,0,100,148_.jpg" group-title="PELICULAS",Que pasó ayer 2 (2011)
-http://vod.tuxchannel.tv/peliculas/720/the%20hangover%20part%20II.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTA0NjE1MzMzODheQTJeQWpwZ15BbWU3MDY4MTQ3Mzk@._V1_QL75_UX100_CR0,3,100,148_.jpg" group-title="PELICULAS",Que pasó ayer 3 (2013)
-http://vod.tuxchannel.tv/peliculas/720/the%20hangover%20part%20III.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRkY2RhM2QtMjQwNC00NDVjLTk4MTQtZGNiMjYxMmJmODVhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="PELICULAS",Poder sin límites (2012)
-http://tux-vod.dynu.com/peliculas/720/chronicle.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDQ4MjQ4OTMwMF5BMl5BanBnXkFtZTcwOTYzNDc4Mw@@._V1_QL75_UX100_CR0,3,100,148_.jpg" group-title="PELICULAS",Déjame entrar (2010)
-http://tux-vod.dynu.com/peliculas/720/dejame%20entrar.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWQzNTU3NGUtNDAxMi00ZjFjLTkyYWUtYjgwZDJiMDljZWY4XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_QL75_UY148_CR0,0,100,148_.jpg" group-title="PELICULAS",Silent Hill (2006)
-http://tux-vod.dynu.com/peliculas/720/silent%20hill.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjBkMjU0NWEtZjY5MS00YWYwLTljMmYtM2IzYTQ0NGU2YzAzXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="PELICULAS",Silent Hill: Revelation (2012)
-http://tux-vod.dynu.com/peliculas/720/silent%20hill%20revelation.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjIyODA2NDg4NV5BMl5BanBnXkFtZTcwMjg4NDAwMw@@._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="PELICULAS",Agente Salt (2010)
-http://tux-vod.dynu.com/peliculas/720/salt.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTA1MTUxNDY4NzReQTJeQWpwZ15BbWU2MDE3ODAxNw@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="PELICULAS",Click (2006)
-http://tux-vod.dynu.com/peliculas/720/click.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzhmNGMzMDMtZDM0Yi00MmVmLWExYjAtZDhjZjcxZDM0MzJhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="PELICULAS",Apocalypto (2006)
-http://tux-vod.dynu.com/peliculas/720/apocalypto.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzMxNTExOTkyMF5BMl5BanBnXkFtZTcwMzEyNDc0OA@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="PELICULAS",Ralph: el demoledor (2012)
-http://tux-vod.dynu.com/peliculas/720/wreck-it%20ralph.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX100_CR0,4,100,148_.jpg" group-title="PELICULAS",Volver al Futuro 1 (1985)
 http://archive.org/download/VolvAFuSRREGIO/VolvAFuSRREGIO.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX100_CR0,4,100,148_.jpg" group-title="PELICULAS",Volver al Futuro 1 (1985) HD
-http://201.172.61.81:85/peliculas/4K/*BACK.TO.THE.FUTURE.1985.4K.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTMxMGM5MjItNDJhNy00MWI2LWJlZWMtOWFhMjI5ZTQwMWM3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX100_CR0,2,100,148_.jpg" group-title="PELICULAS",Volver al Futuro 2 (1989) HD
-http://201.172.61.81:85/peliculas/4K/*BACK.TO.THE.FUTURE.1989.4K.mp4
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjhlMGYxNmMtOWFmMi00Y2M2LWE5NWYtZTdlMDRlMGEzMDA3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UY148_CR0,0,100,148_.jpg" group-title="PELICULAS",Volver al Futuro 3 (1990)
 http://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjhlMGYxNmMtOWFmMi00Y2M2LWE5NWYtZTdlMDRlMGEzMDA3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UY148_CR0,0,100,148_.jpg" group-title="PELICULAS",Volver al Futuro 3 (1990) HD
-http://201.172.61.81:85/peliculas/4K/*BACK.TO.THE.FUTURE.1990.4K.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ5MjQ0OTA4OF5BMl5BanBnXkFtZTcwNTkxODYyOQ@@._V1_QL75_UY148_CR2,0,100,148_.jpg" group-title="PELICULAS",Nosotros los Nobles (2013)
 http://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ5MjQ0OTA4OF5BMl5BanBnXkFtZTcwNTkxODYyOQ@@._V1_QL75_UY148_CR2,0,100,148_.jpg" group-title="PELICULAS",Nosotros los Nobles (2013) HD
-http://201.172.61.81:85/peliculas/octubre/*Nosotros%20los%20Nobles.mp4
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGIxODNjM2YtZjA5Mi00MjA5LTk2YjItODE0OWI5NThjNTBmXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_QL75_UY148_CR0,0,100,148_.jpg" group-title="PELICULAS",Redada Asesina (2011)
 http://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 
-#EXTINF:-1 group-title="PELICULAS", DONACIONES EN
-https://waldmtr3s.github.io/mpago.mp4
-
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS", DONACIONES EN
-https://waldmtr3s.github.io/mpago.mp4
-
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX100_CR0,0,100,148_.jpg",Batman v Superman: Dawn of Justice (2016) [DUAL][4k]
 https://archive.org/download/tinaco_20210409/B4tm4n.v55up35m4n.mkv
+
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UY148_CR1,0,100,148_.jpg",Forrest Gump (1994)[4K][DUAL]
 https://archive.org/download/ubuntuTotal/ubuntuTotal.mkv
+
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX100_CR0,0,100,148_.jpg",Interstellar (2014)[4K][DUAL](opc2)
 https://archive.org/download/ubuntu_202104/Interstellar%20%282014%29%5B4K%5D%5BDUAL%5D.mkv
 
-#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTRhNjcwNWQtMGJmMi00NmQyLWE2YzItODVmMTdjNWI0ZDA2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_QL75_UX100_CR0,1,100,148_.jpg",Star Wars: Episode I - The Phantom Menace (1999) [ENG][4K]
-https://archive.org/download/linux-02/LINUX01.mkv
-#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDAzM2M0Y2UtZjRmZi00MzVlLTg4MjEtOTE3NzU5ZDVlMTU5XkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_QL75_UX100_CR0,2,100,148_.jpg",Star Wars: Episode II - Attack of the Clones (2002) [ENG][4K]
-https://archive.org/download/linux-02/LINUX02.mkv
-#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTc4MTc3NTQ5OF5BMl5BanBnXkFtZTcwOTg0NjI4NA@@._V1_QL75_UY148_CR6,0,100,148_.jpg",Star Wars: Episode III - Revenge of the Sith (2005)
-https://archive.org/download/linux-09/LINUX03.mkv
-#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzVlY2MwMjktM2E4OS00Y2Y3LWE3ZjctYzhkZGM3YzA1ZWM2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX100_CR0,4,100,148_.jpg",Star Wars: Episode IV - A New Hope (1977)
-https://archive.org/download/linux-09/LINUX04.mkv
-#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDljNTQ5ODItZmQwMy00M2ExLTljOTQtZTVjNGE2NTg0NGIxXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_QL75_UX100_CR0,0,100,148_.jpg",Star Wars: Episode IX - The Rise of Skywalker (2019)
-https://archive.org/download/linux-09/LINUX09.mkv
-#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX100_CR0,4,100,148_.jpg",Star Wars: Episode V - The Empire Strikes Back (1980)
-https://archive.org/download/linux-09/LINUX05.mkv
-#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_QL75_UX100_CR0,4,100,148_.jpg",Star Wars: Episode VI - Return of the Jedi (1983)
-https://archive.org/download/linux-09/LINUX06.mkv
-#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTAzODEzNDAzMl5BMl5BanBnXkFtZTgwMDU1MTgzNzE@._V1_QL75_UY148_CR0,0,100,148_.jpg",Star Wars: Episode VII - The Force Awakens (2015)
-https://archive.org/download/linux-09/LINUX07.mkv
-#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_QL75_UX100_CR0,0,100,148_.jpg",Star Wars: Episode VIII - The Last Jedi (2017)
-https://archive.org/download/linux-09/LINUX08.mkv
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzU1YmJjMGEtMjY4Yy00MTFlLWE3NTUtNzI3YjkwZTMxZjZmXkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_QL75_UX100_CR0,1,100,148_.jpg",Total Recall (1990)[4][DUAL]
 https://archive.org/download/ubuntuforum/LLAMADO-FINAL.mkv
-
-
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg0OGM1NWEtNDEwOC00OTE2LTliZWEtNzg1MTZkNjFlMmNhXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="PELICULAS",Kong y la Isla  Calavera (2017)
-http://201.172.61.81:85/peliculas/4K/*Kong.La.Isla.Calavera.4K.mp4
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",DONACIONES EN
-https://waldmtr3s.github.io/mpago.mp4
-
-
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS", DONACIONES EN
-https://waldmtr3s.github.io/mpago.mp4
-
-
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS", DONACIONES EN
-https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",DONACIONES EN
-https://waldmtr3s.github.io/mpago.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI0MDMzNTQ0M15BMl5BanBnXkFtZTgwMTM5NzM3NDM@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="PELICULAS",Un lugar en silencio (2018)
 https://lh3.googleusercontent.com/fDw7CruyBOYBx0VT4kFlT7nwkZr5oe-Z1PmrDVd43piCRUy0mQ68WHQIpciU-8AdZLtM_NZeHNwAVlDygWzqP_s7gPNP4P1bB55kBQfIL4e0R--0RZGCW5mFGnWzxoC1v-fXIkh3WMk=m37
 
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",DONACIONES EN
-https://waldmtr3s.github.io/mpago.mp4
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS", DONACIONES EN
-https://waldmtr3s.github.io/mpago.mp4
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGE1MDg5M2MtNTkyZS00MTY5LTg1YzUtZTlhZmM1Y2EwNmFmXkEyXkFqcGdeQXVyNjA3OTI0MDc@._V1_QL75_UX100_CR0,0,100,148_.jpg",Soul (2020)
 https://archive.org/download/soul.-2020/Soul.2020.mkv
+
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE1MDQ4MjI1OV5BMl5BanBnXkFtZTcwNzcwODAzMw@@._V1_QL75_UY148_CR2,0,100,148_.jpg",CHICAS PESADAS (2004)
 http://ia801403.us.archive.org/14/items/ciejrkr/ciejrkr.mp4
-#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE5MjkwODI3Nl5BMl5BanBnXkFtZTcwNjcwMDk4NA@@._V1_QL75_UX100_CR0,0,100,148_.jpg",PIRATAS DEL CARIBE_navegando_aguas_misteriosas (2011)
-http://series.vodcontetmx.info/movies/espanol/Pirates_of_the_Caribbean_On_Stranger_Tides_2011(1865)/piratas_del_caribe_navegando_aguas_misteriosas.mp4
-#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTcwODc1MTMxM15BMl5BanBnXkFtZTYwMDg1NzY3._V1_QL75_UX100_CR0,0,100,148_.jpg",PIRATAS DEL CARIBE- El cofre de la muerte (2006)
-http://series.vodcontetmx.info/movies/espanol/Pirates_of_the_Caribbean_Dead_Mans_Chest_2006(58)/piratas_del_caribe_el_cofre_de_la_muerte.mp4
-#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGYyZGM5MGMtYTY2Ni00M2Y1LWIzNjQtYWUzM2VlNGVhMDNhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX100_CR0,1,100,148_.jpg",PIRATAS DEL CARIBE - the curse of the black pearl (2003)
-http://xcodes.aftertv.xyz:8080/movie/Jami/1234/7758.mkv
-#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjIyNjkxNzEyMl5BMl5BanBnXkFtZTYwMjc3MDE3._V1_QL75_UX100_CR0,0,100,148_.jpg",Piratas del Caribe - En el fin del Mundo (2007)
-http://series.vodcontetmx.info/movies/espanol/Pirates_of_the_Caribbean_At_Worlds_End_2007(285)/piratas_del_caribe_en_el_fin_del_mundo.mp4
+
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTlhNzJjYzYtNGU3My00ZDI5LTgzZDUtYzllYjU1ZmU0YTgwXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX100_CR0,0,100,148_.jpg",Wonder Woman 84 (2020)
 https://archive.org/download/ww-1984_202103/WW1984.mkv
-#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTlhNzJjYzYtNGU3My00ZDI5LTgzZDUtYzllYjU1ZmU0YTgwXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX100_CR0,0,100,148_.jpg",Wonder Woman 84 (2020) opcion 2
-https://archive.org/download/mujermaravilla_202103/mujermaravilla.mp4
+
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTk3MDljOWQtNGI2My00OTEzLTlhYjQtOTQ4ODM2MzUwY2IwXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_QL75_UX100_CR0,1,100,148_.jpg",Spiderman 3 (2007)
 https://archive.org/download/valores_202103/valor/valores.mkv
+
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM2NTQ5Mzc2M15BMl5BanBnXkFtZTgwNTcxMDI2NTE@._V1_QL75_UX100_CR0,1,100,148_.jpg",Ant-Man (2015)
 https://archive.org/download/23kksk300/23kksk/23kksk100.mp4
+
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjcyYTk0N2YtMzc4ZC00Y2E0LWFkNDgtNjE1MzZmMGE1YjY1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX100_CR0,0,100,148_.jpg",Ant-Man and the Wasp (2018)
 https://archive.org/download/23kksk300/23kksk/23kksk200.mp4
-#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjcyYTk0N2YtMzc4ZC00Y2E0LWFkNDgtNjE1MzZmMGE1YjY1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX100_CR0,0,100,148_.jpg",Ant-Man and the Wasp (2018) OP2
-https://archive.org/download/avispa.1080p.lat.www.hackstore.net/ERE34/AVISPA.1080p.LAT.Www.Hackstore.Net.mkv
+
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM4OGJmNWMtOTM4Ni00NTE3LTg3MDItZmQxYjc4N2JhNmUxXkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_QL75_UX100_CR0,0,100,148_.jpg",Avengers: La Era de Ultron (2015)
 https://archive.org/download/apokosimw/297.mp4
+
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_QL75_UX100_CR0,0,100,148_.jpg",Avengers: Infinity Wars (2018)
 http://archive.org/download/mio3_yopmail_1/1.mp4
+
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_QL75_UX100_CR0,0,100,148_.jpg",Avengers: Endgame (2019)
 http://archive.org/download/nacimientodemihijo_201908/000111.mp4
+
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzQ3NTQxMjItODBjYi00YzUzLWE1NzQtZTBlY2Y2NjZlNzkyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY148_CR0,0,100,148_.jpg",Aves de presa (Harley Queen) (2020)
 https://dl.dropbox.com/s/aa4juhqtz2oqfkv/Ave.de.presa.2020.mp4
+
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzk3MGZlYWQtNDU4Ny00Y2I5LTk2YmItM2QxYjFiMjM0ZmQxXkEyXkFqcGdeQXVyNDUzMTkzMDI@._V1_QL75_UX100_CR0,1,100,148_.jpg",Batman VS Las Tortugas Ninjas (2019)
 https://dl.dropbox.com/s/mjneuvblhcpvkpi/Batman%20va%20Las%20tortugas%20ninja.mp4
+
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTQzM2JkYTAtY2ExNi00N2ZhLWE5NDctMDQyMWU5ZjcwZDEwXkEyXkFqcGdeQXVyMjM5NDQzNTk@._V1_QL75_UX100_CR0,0,100,148_.jpg",Batman y Harley Quinn (2017)
 https://dl.dropbox.com/s/tjpv96ecoo5ngco/Batman%20Harley%20Quiin.mp4
+
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_QL75_UX100_CR0,0,100,148_.jpg",Batman: El Caballero De La Noche (2008)
 https://archive.org/download/001_20200416/The.dark.knight.2008.mp4
+
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_QL75_UX100_CR0,0,100,148_.jpg",Batman: El Caballero De La Noche Asciende (2012)
 https://archive.org/download/BMCDLNA/BMCDLNA.avi
+
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjA5YjA2YjUtMGRlNi00ZTU4LThhZmMtNDc0OTg4ZWExZjI3XkEyXkFqcGdeQXVyNjUyNjI3NzU@._V1_QL75_UY148_CR9,0,100,148_.jpg",Bloodshot (2020)
 https://dl.dropbox.com/s/zrp26oi2wj8uoaa/Bloodshot.2020.mp4
+
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQ0MTgyNjAxMV5BMl5BanBnXkFtZTgwNjUzMDkyODE@._V1_QL75_UX100_CR0,0,100,148_.jpg",Capitan America: Civil War (2016)
 https://archive.org/download/1211_20200921/1211.mkv
+
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYzOTc2NzU3N15BMl5BanBnXkFtZTcwNjY3MDE3NQ@@._V1_QL75_UX100_CR0,4,100,148_.jpg",Capitan America: El Primer Vengador (2011)
 https://archive.org/download/87j23s400_202002/87j23%2Bs/87j23%2Bs100.avi
+
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTE0YWFmOTMtYTU2ZS00ZTIxLWE3OTEtYTNiYzBkZjViZThiXkEyXkFqcGdeQXVyODMzMzQ4OTI@._V1_QL75_UX100_CR0,0,100,148_.jpg",Capitana Marvel (2019)
 https://dl.dropbox.com/s/qnnirswyiybs14k/CapMarvel.mp4
+
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BODRiNmFhY2EtMGY2OC00YjI2LWIyYjQtYzFiM2ZhNjdhYzE4XkEyXkFqcGdeQXVyNDY5MTUyNjU@._V1_QL75_UX100_CR0,1,100,148_.jpg",Constantine (2005)
 https://archive.org/download/thdg_20200308/cnstine/cnstine.avi
-#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BODRiNmFhY2EtMGY2OC00YjI2LWIyYjQtYzFiM2ZhNjdhYzE4XkEyXkFqcGdeQXVyNDY5MTUyNjU@._V1_QL75_UX100_CR0,1,100,148_.jpg",Constantine (2005) OP2
-https://archive.org/download/007_20200426/007.avi
+
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDkzNmRhNTMtZDI4NC00Zjg1LTgxM2QtMjYxZDQ3OWJlMDRlXkEyXkFqcGdeQXVyNTU5MjkzMTU@._V1_QL75_UX100_CR0,1,100,148_.jpg",Deadpool 2 (2018)
 https://ia801500.us.archive.org/20/items/deadpool.-2.2018.1080p/D2/Deadpool.2.2018.1080p.mp4
+
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_QL75_UX100_CR0,0,100,148_.jpg",Doctor Strange (2016)
 https://archive.org/download/dilapalabra9/41519.mp4
+
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUyNzk3MjA1OF5BMl5BanBnXkFtZTcwMTE1Njg2MQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg",El Increíble Hulk (2008)
 https://archive.org/download/00200_201909/00200.avi
+
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjM0NTc0NzItM2FlYS00YzEwLWE0YmUtNTA2ZWIzODc2OTgxXkEyXkFqcGdeQXVyNTgwNzIyNzg@._V1_QL75_UX100_CR0,0,100,148_.jpg",Guardianes de la Galaxia VOL. 2 (2017)
 https://archive.org/download/123_20200917_202009/123.mp4
+
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTAwMjU5OTgxNjZeQTJeQWpwZ15BbWU4MDUxNDYxODEx._V1_QL75_UX100_CR0,0,100,148_.jpg",Guardianes de la Galaxia VOL.1 (2014)
 https://archive.org/download/pp2_20200324/pp/pp.mp4
+
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_QL75_UX100_CR0,0,100,148_.jpg",Iron Man 1 (2008)
 https://archive.org/download/87j23s400_202002/87j23%2Bs/87j23%2Bs300.avi
+
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0MDgwNjMyMl5BMl5BanBnXkFtZTcwNTg3NzAzMw@@._V1_QL75_UX100_CR0,0,100,148_.jpg",Iron Man 2 (2010)
 https://archive.org/download/87j23s400_202002/87j23%2Bs/87j23%2Bs400.avi
+
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE5MzcyNjk1M15BMl5BanBnXkFtZTcwMjQ4MjcxOQ@@._V1_QL75_UY148_CR2,0,100,148_.jpg",Iron Man 3 (2013)
 https://archive.org/download/87j23s400_202002/87j23%2Bs/87j23%2Bs500.avi
+
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg",Joker (2019)
 https://archive.org/download/jk-2019/JK2019.mkv
+
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzg0ODZjNjUtNmVhZi00NTYxLWExNWMtMWI3MDFiMjhiNjc2L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_QL75_UY148_CR0,0,100,148_.jpg",La Liga de la Justicia - Crisis en 2 tierras (2010)
 https://archive.org/download/ligadelajusticiacrisisenlasdostierras/SAbado/Liga%20de%20la%20Justicia%20Crisis%20en%20las%20dos%20Tierras.avi
+
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWZkMjYzNjctYTMyZi00MjdjLTg5MzMtYjdhM2M0MTI5ZWFkXkEyXkFqcGdeQXVyNTc4MjczMTM@._V1_QL75_UX100_CR0,1,100,148_.jpg",La Muerte de Superman (2018)
 https://dl.dropbox.com/s/hiibizhkhcgwfg3/1232412546476546434c35145132.mp4
+
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk5YTEwYTQtNDc3Ny00OTcxLWE2YjctYWRmYmFiOGMyZTdkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX100_CR0,1,100,148_.jpg",La Muerte y Regreso de Superman (2019)
 https://dl.dropbox.com/s/k4vkwt0nayoqvgi/La%20muerte%20y%20regreso%20de%20superman.mp4
+
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTZhMTIwZDUtYjZjZS00MmViLTg3NzEtNWE5NzI1NDUwNDJmXkEyXkFqcGdeQXVyODQxMTI4MjM@._V1_QL75_UX100_CR0,0,100,148_.jpg",Los Jóvenes Titanes en acción: La película (2018)
 https://archive.org/download/2223_20200217/sub1d0_p4r4_5tr34ming_P5F11X/2223.mkv
+
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg1MTY2MjYzNV5BMl5BanBnXkFtZTgwMTc4NTMwNDI@._V1_QL75_UX100_CR0,0,100,148_.jpg",Pantera Negra (2018)
 https://archive.org/download/299975a7bfe1d2f/299975a7bfe1d2f.mp4
+
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDEyN2NhMjgtMjdhNi00MmNlLWE5YTgtZGE4MzNjMTRlMGEwXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_QL75_UY148_CR0,0,100,148_.jpg",Spider-Man (2002)
 https://archive.org/download/sapito1/sapito/sapito%201.mkv
+
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzY2ODk4NmUtOTVmNi00ZTdkLTlmOWYtMmE2OWVhNTU2OTVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UY148_CR4,0,100,148_.jpg",Spider-Man 2 (2004)
 https://archive.org/download/ana_20200213/ANA.mkv
-#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzY2ODk4NmUtOTVmNi00ZTdkLTlmOWYtMmE2OWVhNTU2OTVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UY148_CR4,0,100,148_.jpg",Spider-Man 2 (2004) (Opción 2)
-https://dl.dropbox.com/s/yvitugg1oxepi5l/spider-man%202.1%20%28hd%20-%20lat%29%20-%20jopec03.mkv
+
+
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTk3MDljOWQtNGI2My00OTEzLTlhYjQtOTQ4ODM2MzUwY2IwXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_QL75_UX100_CR0,1,100,148_.jpg",Spider-Man 3 (2007)
 https://dl.dropbox.com/s/3xkxix4f4aia8wq/3lh0mbr34r4_3.www.hackstore.net.avi
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGZlNTY1ZWUtYTMzNC00ZjUyLWE0MjQtMTMxN2E3ODYxMWVmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg",Spider-Man: Far from Home (2019)
@@ -4429,4 +3608,3 @@ http://archive.org/download/yjrwse4k5loi/yjrwse4k5loi.mp4
 http://archive.org/download/21anmlnxy0uln4me3103jpby/21ANmlNXy0ulN4me3103Jpby.mp4
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",ZOMBIELAND TIRO DE GRACIA
 http://archive.org/download/zombieland2_201911/zombieland%202.mp4
-
